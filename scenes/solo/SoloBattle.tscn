@@ -1,0 +1,43 @@
+[gd_scene load_steps=2 format=3 uid="uid://solobattle"]
+
+[ext_resource type="Script" path="res://scenes/solo/SoloBattle.gd" id="1"]
+
+[node name="SoloBattle" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+script = ExtResource("1")
+
+[node name="CenterPanel" type="VBoxContainer" parent="."]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = 40.0
+offset_top = 24.0
+offset_right = -40.0
+offset_bottom = -24.0
+
+[node name="TituloLabel" type="Label" parent="CenterPanel"]
+unique_name_in_owner = true
+text = "Modo Solo"
+horizontal_alignment = 1
+theme_override_font_sizes/font_size = 22
+
+[node name="InfoLabel" type="Label" parent="CenterPanel"]
+unique_name_in_owner = true
+text = "Carregando..."
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="Separator" type="HSeparator" parent="CenterPanel"]
+
+[node name="OponentesScroll" type="ScrollContainer" parent="CenterPanel"]
+size_flags_vertical = 3
+
+[node name="OponentesGrid" type="GridContainer" parent="CenterPanel/OponentesScroll"]
+unique_name_in_owner = true
+columns = 6
+size_flags_horizontal = 3
+
+[node name="BtnVoltar" type="Button" parent="CenterPanel"]
+unique_name_in_owner = true
+text = "< Voltar aos Níveis"

@@ -1,0 +1,105 @@
+[gd_scene load_steps=2 format=3 uid="uid://b1m4in0battle001"]
+
+[ext_resource type="Script" path="res://scripts/components/BattleOverlay.gd" id="1"]
+
+[node name="BattleOverlay" type="CanvasLayer"]
+script = ExtResource("1")
+
+[node name="FadeRoot" type="Control" parent="."]
+unique_name_in_owner = true
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+mouse_filter = 2
+
+[node name="BgDim" type="ColorRect" parent="FadeRoot"]
+unique_name_in_owner = true
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+color = Color(0.05, 0.05, 0.08, 0.88)
+mouse_filter = 1
+
+[node name="Center" type="CenterContainer" parent="FadeRoot"]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+mouse_filter = 2
+
+[node name="MainVBox" type="VBoxContainer" parent="FadeRoot/Center"]
+layout_mode = 2
+theme_override_constants/separation = 18
+
+[node name="FightersRow" type="HBoxContainer" parent="FadeRoot/Center/MainVBox"]
+layout_mode = 2
+theme_override_constants/separation = 60
+alignment = 1
+
+[node name="AttackerCol" type="VBoxContainer" parent="FadeRoot/Center/MainVBox/FightersRow"]
+layout_mode = 2
+theme_override_constants/separation = 8
+
+[node name="AttackerName" type="Label" parent="FadeRoot/Center/MainVBox/FightersRow/AttackerCol"]
+unique_name_in_owner = true
+layout_mode = 2
+horizontal_alignment = 1
+theme_override_font_sizes/font_size = 18
+text = "Atacante"
+
+[node name="AttackerSprite" type="TextureRect" parent="FadeRoot/Center/MainVBox/FightersRow/AttackerCol"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(96, 96)
+layout_mode = 2
+expand_mode = 1
+stretch_mode = 5
+pivot_offset = Vector2(48, 48)
+
+[node name="AttackerWheelSlot" type="Control" parent="FadeRoot/Center/MainVBox/FightersRow/AttackerCol"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(160, 200)
+layout_mode = 2
+
+[node name="VsLabel" type="Label" parent="FadeRoot/Center/MainVBox/FightersRow"]
+unique_name_in_owner = true
+layout_mode = 2
+theme_override_font_sizes/font_size = 16
+text = "VS"
+vertical_alignment = 1
+
+[node name="DefenderCol" type="VBoxContainer" parent="FadeRoot/Center/MainVBox/FightersRow"]
+layout_mode = 2
+theme_override_constants/separation = 8
+
+[node name="DefenderName" type="Label" parent="FadeRoot/Center/MainVBox/FightersRow/DefenderCol"]
+unique_name_in_owner = true
+layout_mode = 2
+horizontal_alignment = 1
+theme_override_font_sizes/font_size = 18
+text = "Defensor"
+
+[node name="DefenderSprite" type="TextureRect" parent="FadeRoot/Center/MainVBox/FightersRow/DefenderCol"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(96, 96)
+layout_mode = 2
+expand_mode = 1
+stretch_mode = 5
+pivot_offset = Vector2(48, 48)
+
+[node name="DefenderWheelSlot" type="Control" parent="FadeRoot/Center/MainVBox/FightersRow/DefenderCol"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(160, 200)
+layout_mode = 2
+
+[node name="ResultLabel" type="Label" parent="FadeRoot/Center/MainVBox"]
+unique_name_in_owner = true
+layout_mode = 2
+horizontal_alignment = 1
+theme_override_font_sizes/font_size = 26
+
+[node name="ContinueHint" type="Label" parent="FadeRoot/Center/MainVBox"]
+unique_name_in_owner = true
+layout_mode = 2
+horizontal_alignment = 1
+theme_override_font_sizes/font_size = 12
+modulate = Color(1, 1, 1, 0.6)
+text = "Clique em qualquer lugar para continuar"

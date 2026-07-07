@@ -1,0 +1,8539 @@
+[
+  {
+	"dexId": 2,
+	"id": "bulbasaur",
+	"name": "Bulbasaur",
+	"type": "GRAMA",
+	"type2": "VENENO",
+	"rarity": "UC",
+	"pm": 3,
+	"specialAbility": "Semente Curativa - Enquanto este Pokémon estiver em campo, seus Pokémon do tipo Grama e Veneno não podem ficar envenenados ou tóxicos.",
+	"moves": [
+	  {
+		"name": "Poison Powder",
+		"color": "PURPLE",
+		"size": 24,
+		"damage": 0,
+		"effect": "POISON",
+		"turns": 0,
+		"description": "O oponente da batalha fica envenenado."
+	  },
+	  {
+		"name": "Seed Bomb",
+		"color": "WHITE",
+		"size": 20,
+		"damage": 50,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Sleep Powder",
+		"color": "PURPLE",
+		"size": 24,
+		"damage": 0,
+		"effect": "SLEEP",
+		"turns": 0,
+		"description": "O oponente da batalha adormece."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 28,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 3,
+	"id": "ivysaur",
+	"name": "Ivysaur",
+	"type": "GRAMA",
+	"type2": "VENENO",
+	"rarity": "C",
+	"pm": 2,
+	"specialAbility": "Semente Curativa - Enquanto este Pokémon estiver em campo, seus Pokémon do tipo Grama e Veneno não podem ficar envenenados ou tóxicos.",
+	"moves": [
+	  {
+		"name": "Vine Whip",
+		"color": "WHITE",
+		"size": 28,
+		"damage": 40,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Razor Leaf",
+		"color": "WHITE",
+		"size": 24,
+		"damage": 60,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Sleep Powder",
+		"color": "PURPLE",
+		"size": 28,
+		"damage": 0,
+		"effect": "SLEEP",
+		"turns": 0,
+		"description": "O oponente da batalha adormece."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 16,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 4,
+	"id": "venusaur",
+	"name": "Venusaur",
+	"type": "GRAMA",
+	"type2": "VENENO",
+	"rarity": "EX",
+	"pm": 1,
+	"specialAbility": "Pólen Químico - Enquanto este Pokémon estiver em campo, todos os Pokémon envenenados ou tóxicos têm PM-1. Este efeito não acumula.",
+	"moves": [
+	  {
+		"name": "Protect",
+		"color": "BLUE",
+		"size": 20,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Este Pokémon ganha Wait."
+	  },
+	  {
+		"name": "Solar Beam",
+		"color": "WHITE",
+		"size": 36,
+		"damage": 150,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Sleep Powder",
+		"color": "PURPLE",
+		"size": 32,
+		"damage": 0,
+		"effect": "SLEEP",
+		"turns": 0,
+		"description": "O oponente da batalha adormece."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 5,
+	"id": "charmander",
+	"name": "Charmander",
+	"type": "FOGO",
+	"type2": null,
+	"rarity": "UC",
+	"pm": 3,
+	"specialAbility": null,
+	"moves": [
+	  {
+		"name": "Flame Tail",
+		"color": "WHITE",
+		"size": 24,
+		"damage": 40,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Smokescreen",
+		"color": "PURPLE",
+		"size": 28,
+		"damage": 0,
+		"effect": "IMMOBILIZED",
+		"turns": 1,
+		"description": "O oponente não pode se mover no próximo turno."
+	  },
+	  {
+		"name": "Scratch",
+		"color": "WHITE",
+		"size": 32,
+		"damage": 10,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 12,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 6,
+	"id": "charmeleon",
+	"name": "Charmeleon",
+	"type": "FOGO",
+	"type2": null,
+	"rarity": "C",
+	"pm": 2,
+	"specialAbility": null,
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Flame",
+		"color": "PURPLE",
+		"size": 24,
+		"damage": 0,
+		"effect": "BURN",
+		"turns": 0,
+		"description": "O oponente da batalha fica queimado."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Iron Tail",
+		"color": "WHITE",
+		"size": 56,
+		"damage": 50,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 7,
+	"id": "charizard",
+	"name": "Charizard",
+	"type": "FOGO",
+	"type2": "VOADOR",
+	"rarity": "EX",
+	"pm": 2,
+	"specialAbility": null,
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Fire Spin",
+		"color": "WHITE",
+		"size": 56,
+		"damage": 60,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Gira de novo enquanto Fire Spin sair - o dano é multiplicado pelo número de giros."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Dragon Tail",
+		"color": "WHITE",
+		"size": 28,
+		"damage": 100,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Coloca o oponente da batalha no banco (exceto se já tiver desmaiado). O oponente ganha Wait."
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 8,
+	"id": "squirtle",
+	"name": "Squirtle",
+	"type": "AGUA",
+	"type2": null,
+	"rarity": "UC",
+	"pm": 3,
+	"specialAbility": null,
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 12,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Bubble",
+		"color": "WHITE",
+		"size": 44,
+		"damage": 30,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Withdraw",
+		"color": "BLUE",
+		"size": 40,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Este Pokémon ganha Wait."
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 9,
+	"id": "wartortle",
+	"name": "Wartortle",
+	"type": "AGUA",
+	"type2": null,
+	"rarity": "C",
+	"pm": 2,
+	"specialAbility": null,
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Dodge",
+		"color": "BLUE",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Water Gun",
+		"color": "WHITE",
+		"size": 40,
+		"damage": 40,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Dodge",
+		"color": "BLUE",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Rapid Spin",
+		"color": "WHITE",
+		"size": 36,
+		"damage": 20,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Gira de novo enquanto Rapid Spin sair - o dano é multiplicado pelo número de giros."
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 10,
+	"id": "blastoise",
+	"name": "Blastoise",
+	"type": "AGUA",
+	"type2": null,
+	"rarity": "EX",
+	"pm": 2,
+	"specialAbility": null,
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Hydro Pump",
+		"color": "WHITE",
+		"size": 40,
+		"damage": 140,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Mirror Coat",
+		"color": "PURPLE",
+		"size": 40,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "O oponente da batalha é derrotado se ele girar roxo."
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 11,
+	"id": "pikachu",
+	"name": "Pikachu",
+	"type": "ELETRICO",
+	"type2": null,
+	"rarity": "UC",
+	"pm": 2,
+	"specialAbility": null,
+	"moves": [
+	  {
+		"name": "Thunder Shock",
+		"color": "WHITE",
+		"size": 24,
+		"damage": 40,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 12,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Thunderbolt",
+		"color": "WHITE",
+		"size": 24,
+		"damage": 100,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Thunder Shock",
+		"color": "WHITE",
+		"size": 24,
+		"damage": 40,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Dodge",
+		"color": "BLUE",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 12,
+	"id": "raichu",
+	"name": "Raichu",
+	"type": "ELETRICO",
+	"type2": null,
+	"rarity": "UC",
+	"pm": 2,
+	"specialAbility": "Aterramento - Este Pokémon não pode ser Paralisado.",
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Thunder",
+		"color": "WHITE",
+		"size": 28,
+		"damage": 100,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Thunder Jolt",
+		"color": "WHITE",
+		"size": 52,
+		"damage": 40,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se este Pokémon for derrotado usando este ataque, o oponente da batalha fica paralisado."
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 13,
+	"id": "machop",
+	"name": "Machop",
+	"type": "LUTADOR",
+	"type2": null,
+	"rarity": "C",
+	"pm": 2,
+	"specialAbility": null,
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Focus Punch",
+		"color": "WHITE",
+		"size": 56,
+		"damage": 40,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Dodge",
+		"color": "BLUE",
+		"size": 28,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 14,
+	"id": "machamp",
+	"name": "Machamp",
+	"type": "LUTADOR",
+	"type2": null,
+	"rarity": "R",
+	"pm": 2,
+	"specialAbility": "Determinação - Se este Pokémon tiver uma condição especial, causa +50 de dano.",
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Karate Chop",
+		"color": "WHITE",
+		"size": 24,
+		"damage": 60,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Submission",
+		"color": "WHITE",
+		"size": 28,
+		"damage": 80,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Karate Chop",
+		"color": "WHITE",
+		"size": 24,
+		"damage": 60,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Dodge",
+		"color": "BLUE",
+		"size": 12,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 15,
+	"id": "scyther",
+	"name": "Scyther",
+	"type": "INSETO",
+	"type2": "VOADOR",
+	"rarity": "UC",
+	"pm": 2,
+	"specialAbility": null,
+	"moves": [
+	  {
+		"name": "False Swipe",
+		"color": "WHITE",
+		"size": 24,
+		"damage": 20,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Slash",
+		"color": "WHITE",
+		"size": 32,
+		"damage": 50,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Swords Dance",
+		"color": "WHITE",
+		"size": 36,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Gira de novo até sair um ataque diferente de Swords Dance. Ataques de dano causam o dobro."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 16,
+	"id": "magikarp",
+	"name": "Magikarp",
+	"type": "AGUA",
+	"type2": null,
+	"rarity": "C",
+	"pm": 2,
+	"specialAbility": "Evolução Rápida - Quando este Pokémon desmaia em batalha, você pode evoluí-lo sem enviá-lo ao P.C.",
+	"moves": [
+	  {
+		"name": "Splash",
+		"color": "WHITE",
+		"size": 48,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Flail",
+		"color": "WHITE",
+		"size": 44,
+		"damage": 10,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 17,
+	"id": "gyarados",
+	"name": "Gyarados",
+	"type": "AGUA",
+	"type2": "VOADOR",
+	"rarity": "EX",
+	"pm": 2,
+	"specialAbility": "Devastador - Este Pokémon pode fazer MP Move através de outros Pokémon no campo. Pokémon derrotados pelos ataques deste Pokémon são temporariamente excluídos do duelo e podem ir ao P.C. após 5 turnos.",
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Waterfall",
+		"color": "WHITE",
+		"size": 36,
+		"damage": 130,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se o oponente da batalha for do tipo Água, este Pokémon não recebe dano e avança para um ponto além do oponente."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Hurricane",
+		"color": "PURPLE",
+		"size": 28,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Move o oponente da batalha para o banco. O oponente e todos os Pokémon Voadores adversários no campo ganham Wait 3."
+	  }
+	],
+	"wheelTotal": 76
+  },
+  {
+	"dexId": 18,
+	"id": "lapras",
+	"name": "Lapras",
+	"type": "AGUA",
+	"type2": "GELO",
+	"rarity": "R",
+	"pm": 2,
+	"specialAbility": "Muralha de Gelo - Este Pokémon não pode ficar queimado ou congelado.",
+	"moves": [
+	  {
+		"name": "Ice Beam",
+		"color": "WHITE",
+		"size": 12,
+		"damage": 50,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "O oponente da batalha fica congelado."
+	  },
+	  {
+		"name": "Surf",
+		"color": "WHITE",
+		"size": 36,
+		"damage": 100,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Sing",
+		"color": "PURPLE",
+		"size": 32,
+		"damage": 0,
+		"effect": "SLEEP",
+		"turns": 0,
+		"description": "O oponente da batalha adormece."
+	  },
+	  {
+		"name": "Dodge",
+		"color": "BLUE",
+		"size": 12,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 19,
+	"id": "eevee",
+	"name": "Eevee",
+	"type": "NORMAL",
+	"type2": null,
+	"rarity": "R",
+	"pm": 3,
+	"specialAbility": "Evolução Espontânea - Sempre que este Pokémon for do P.C. para o banco, ele pode evoluir.",
+	"moves": [
+	  {
+		"name": "Dodge",
+		"color": "BLUE",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Tackle",
+		"color": "WHITE",
+		"size": 24,
+		"damage": 30,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Focus Energy",
+		"color": "WHITE",
+		"size": 28,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Quick Attack",
+		"color": "GOLD",
+		"size": 16,
+		"damage": 20,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Dodge",
+		"color": "BLUE",
+		"size": 12,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 20,
+	"id": "vaporeon",
+	"name": "Vaporeon",
+	"type": "AGUA",
+	"type2": null,
+	"rarity": "R",
+	"pm": 3,
+	"specialAbility": null,
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Dodge",
+		"color": "BLUE",
+		"size": 20,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Water Slide",
+		"color": "PURPLE",
+		"size": 28,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "O oponente da batalha é empurrado 1 passo para trás e ganha Wait."
+	  },
+	  {
+		"name": "Surf",
+		"color": "WHITE",
+		"size": 40,
+		"damage": 40,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 21,
+	"id": "jolteon",
+	"name": "Jolteon",
+	"type": "ELETRICO",
+	"type2": null,
+	"rarity": "R",
+	"pm": 3,
+	"specialAbility": "Raio Veloz - Este Pokémon pode fazer MP Move passando por Pokémon Paralisados.",
+	"moves": [
+	  {
+		"name": "Dodge",
+		"color": "BLUE",
+		"size": 20,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Thunder Jolt",
+		"color": "WHITE",
+		"size": 40,
+		"damage": 40,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se este Pokémon for derrotado usando este ataque, o oponente da batalha fica paralisado."
+	  },
+	  {
+		"name": "Quick Attack",
+		"color": "GOLD",
+		"size": 28,
+		"damage": 30,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 22,
+	"id": "flareon",
+	"name": "Flareon",
+	"type": "FOGO",
+	"type2": null,
+	"rarity": "R",
+	"pm": 3,
+	"specialAbility": null,
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 12,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Flamethrower",
+		"color": "WHITE",
+		"size": 44,
+		"damage": 40,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se este Pokémon for derrotado usando este ataque, o oponente da batalha fica queimado."
+	  },
+	  {
+		"name": "Focus Energy",
+		"color": "WHITE",
+		"size": 20,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Gira de novo até sair um ataque diferente de Focus Energy. Ataques de dano causam +20."
+	  },
+	  {
+		"name": "Dodge",
+		"color": "BLUE",
+		"size": 20,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 23,
+	"id": "snorlax",
+	"name": "Snorlax",
+	"type": "NORMAL",
+	"type2": null,
+	"rarity": "EX",
+	"pm": 1,
+	"specialAbility": "Quietude - Este Pokémon não pode ser movido pelos ataques de outros Pokémon (exceto Sweet Scent). Só pode ser afetado pela condição Sono.",
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Big Yawn",
+		"color": "PURPLE",
+		"size": 36,
+		"damage": 0,
+		"effect": "SLEEP",
+		"turns": 0,
+		"description": "Este Pokémon e o oponente da batalha adormecem."
+	  },
+	  {
+		"name": "Body Slam",
+		"color": "WHITE",
+		"size": 32,
+		"damage": 150,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "O oponente da batalha fica paralisado."
+	  },
+	  {
+		"name": "Giga Impact",
+		"color": "WHITE",
+		"size": 24,
+		"damage": 180,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 27,
+	"id": "dratini",
+	"name": "Dratini",
+	"type": "DRAGAO",
+	"type2": null,
+	"rarity": "R",
+	"pm": 2,
+	"specialAbility": null,
+	"moves": [
+	  {
+		"name": "Dragon Rage",
+		"color": "WHITE",
+		"size": 20,
+		"damage": 80,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Push Aside",
+		"color": "PURPLE",
+		"size": 24,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "O oponente da batalha é movido para o banco e ganha Wait."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Freeze Tail",
+		"color": "WHITE",
+		"size": 44,
+		"damage": 30,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se este Pokémon for derrotado, o oponente da batalha fica congelado."
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 28,
+	"id": "dragonair",
+	"name": "Dragonair",
+	"type": "DRAGAO",
+	"type2": null,
+	"rarity": "R",
+	"pm": 2,
+	"specialAbility": "Troca de Pele - Este Pokémon se recupera de qualquer efeito de status no início do seu turno, e o turno termina. Ao fazer isso, você pode evoluí-lo, se possível.",
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Magnetic Storm",
+		"color": "PURPLE",
+		"size": 32,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Este Pokémon e todos os vizinhos ficam Paralisados."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 12,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Dragon Tail",
+		"color": "WHITE",
+		"size": 48,
+		"damage": 80,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Coloca o oponente da batalha no banco (exceto se já desmaiou). O oponente ganha Wait."
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 29,
+	"id": "dragonite",
+	"name": "Dragonite",
+	"type": "DRAGAO",
+	"type2": "VOADOR",
+	"rarity": "EX",
+	"pm": 1,
+	"specialAbility": "Impulso de Velocidade - Quando este Pokémon evolui, ganha +1 PM.",
+	"moves": [
+	  {
+		"name": "Extreme Speed",
+		"color": "GOLD",
+		"size": 28,
+		"damage": 100,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 12,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Sightseeing",
+		"color": "PURPLE",
+		"size": 28,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Este Pokémon salta sobre o oponente da batalha e cai 1-2 passos além, ganhando Wait."
+	  },
+	  {
+		"name": "Dragon Tail",
+		"color": "WHITE",
+		"size": 28,
+		"damage": 140,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Coloca o oponente da batalha no banco (exceto se já desmaiou). O oponente ganha Wait."
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 24,
+	"id": "articuno",
+	"name": "Articuno",
+	"type": "GELO",
+	"type2": "VOADOR",
+	"rarity": "EX",
+	"pm": 2,
+	"specialAbility": "Voo Alto - Este Pokémon pode voar sobre Pokémon que não tenham Voo Alto usando um MP Move.",
+	"moves": [
+	  {
+		"name": "Steel Wing",
+		"color": "WHITE",
+		"size": 16,
+		"damage": 130,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Cold Crush",
+		"color": "WHITE",
+		"size": 32,
+		"damage": 90,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 12,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Ice Charge",
+		"color": "PURPLE",
+		"size": 20,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Anexa um Marcador de Carga a este Pokémon. Ao remover o marcador (no início de uma batalha em seu turno), o oponente e os Pokémon na mesma fileira ficam Congelados, e o turno termina."
+	  }
+	],
+	"wheelTotal": 80
+  },
+  {
+	"dexId": 25,
+	"id": "zapdos",
+	"name": "Zapdos",
+	"type": "ELETRICO",
+	"type2": "VOADOR",
+	"rarity": "EX",
+	"pm": 2,
+	"specialAbility": "Voo Alto - Este Pokémon pode voar sobre Pokémon que não tenham Voo Alto usando um MP Move.",
+	"moves": [
+	  {
+		"name": "Steel Wing",
+		"color": "WHITE",
+		"size": 16,
+		"damage": 50,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Thunder Crash",
+		"color": "GOLD",
+		"size": 32,
+		"damage": 100,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Roost",
+		"color": "BLUE",
+		"size": 16,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Este Pokémon se recupera de todos os efeitos de status. Em troca, ganha Wait 3."
+	  },
+	  {
+		"name": "Thunder Charge",
+		"color": "PURPLE",
+		"size": 20,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Anexa um Marcador de Carga a este Pokémon. Ao remover o marcador, o oponente e os Pokémon na mesma fileira ficam Paralisados, e o turno termina."
+	  }
+	],
+	"wheelTotal": 84
+  },
+  {
+	"dexId": 26,
+	"id": "moltres",
+	"name": "Moltres",
+	"type": "FOGO",
+	"type2": "VOADOR",
+	"rarity": "EX",
+	"pm": 2,
+	"specialAbility": "Voo Alto - Este Pokémon pode voar sobre Pokémon que não tenham Voo Alto usando um MP Move.",
+	"moves": [
+	  {
+		"name": "Steel Wing",
+		"color": "WHITE",
+		"size": 16,
+		"damage": 60,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Crushing Flames",
+		"color": "WHITE",
+		"size": 32,
+		"damage": 110,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 12,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Roost",
+		"color": "BLUE",
+		"size": 16,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Este Pokémon se recupera de todos os efeitos de status. Em troca, ganha Wait 3."
+	  },
+	  {
+		"name": "Flame Charge",
+		"color": "PURPLE",
+		"size": 20,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Anexa um Marcador de Carga a este Pokémon. Ao remover o marcador, o oponente e os Pokémon na mesma fileira ficam Queimados, e o turno termina."
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 30,
+	"id": "mewtwo",
+	"name": "Mewtwo",
+	"type": "PSIQUICO",
+	"type2": null,
+	"rarity": "EX",
+	"pm": 2,
+	"specialAbility": "Avanço Veloz - Todos os ataques Azuis dos oponentes de batalha deste Pokémon se tornam Miss.",
+	"moves": [
+	  {
+		"name": "Psychic Shove",
+		"color": "PURPLE",
+		"size": 32,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "O oponente da batalha é empurrado o mais longe possível em linha reta. Pokémon atingidos também são empurrados e ganham Wait."
+	  },
+	  {
+		"name": "Annihilate",
+		"color": "BLUE",
+		"size": 16,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Este Pokémon se move 2 passos."
+	  },
+	  {
+		"name": "Psycho Cut",
+		"color": "WHITE",
+		"size": 40,
+		"damage": 70,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Gira de novo - se sair Psycho Cut novamente, causa +50 de dano."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 31,
+	"id": "mew",
+	"name": "Mew",
+	"type": "PSIQUICO",
+	"type2": null,
+	"rarity": "EX",
+	"pm": 3,
+	"specialAbility": null,
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Psychic",
+		"color": "WHITE",
+		"size": 24,
+		"damage": 100,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Hyper Sonic",
+		"color": "GOLD",
+		"size": 48,
+		"damage": 30,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se o ataque do oponente for 100 de dano ou mais, este Pokémon não pode ser derrotado."
+	  },
+	  {
+		"name": "Genesis Supernova",
+		"color": "WHITE",
+		"size": 20,
+		"damage": 200,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Todos os Pokémon adversários em campo giram. Os que sortearem um ataque Roxo são derrotados. Este Pokémon é excluído do duelo."
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 32,
+	"id": "chikorita",
+	"name": "Chikorita",
+	"type": "GRAMA",
+	"type2": null,
+	"rarity": "UC",
+	"pm": 3,
+	"specialAbility": "Aroma Refrescante - Quando este Pokémon vai do banco para o campo, remove condições especiais de todos os seus Pokémon em campo.",
+	"moves": [
+	  {
+		"name": "Sweet Scent",
+		"color": "PURPLE",
+		"size": 24,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Um Pokémon a até 3 passos é atraído 1-2 passos para mais perto deste Pokémon e ganha Wait."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 16,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Grass Knot",
+		"color": "WHITE",
+		"size": 56,
+		"damage": 40,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se o ataque do oponente for 120 de dano ou mais, o oponente é derrotado em vez deste Pokémon."
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 33,
+	"id": "bayleef",
+	"name": "Bayleef",
+	"type": "GRAMA",
+	"type2": null,
+	"rarity": "C",
+	"pm": 2,
+	"specialAbility": "Aroma Picante - Este Pokémon causa +20 de dano em batalhas no seu turno.",
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 12,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Poison Powder",
+		"color": "PURPLE",
+		"size": 28,
+		"damage": 0,
+		"effect": "POISON",
+		"turns": 0,
+		"description": "O oponente da batalha fica envenenado."
+	  },
+	  {
+		"name": "Body Slam",
+		"color": "WHITE",
+		"size": 56,
+		"damage": 80,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 34,
+	"id": "meganium",
+	"name": "Meganium",
+	"type": "GRAMA",
+	"type2": null,
+	"rarity": "EX",
+	"pm": 2,
+	"specialAbility": "Guarda Foliar - Este Pokémon só pode ser afetado pela condição Sono. Não recebe marcadores dos ataques do oponente.",
+	"moves": [
+	  {
+		"name": "Body Slam",
+		"color": "WHITE",
+		"size": 20,
+		"damage": 100,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "O oponente da batalha fica paralisado."
+	  },
+	  {
+		"name": "Petal Blizzard",
+		"color": "WHITE",
+		"size": 36,
+		"damage": 160,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Todos os Pokémon adversários em campo giram. Os que sortearem Miss são derrotados."
+	  },
+	  {
+		"name": "Synthesis",
+		"color": "PURPLE",
+		"size": 32,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Enquanto estiverem em campo, seus Pokémon do tipo Grama causam +20 de dano ao oponente."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 35,
+	"id": "cyndaquil",
+	"name": "Cyndaquil",
+	"type": "FOGO",
+	"type2": null,
+	"rarity": "UC",
+	"pm": 3,
+	"specialAbility": "Determinação Crescente - O Ember deste Pokémon ganha +20 de dano para cada Pokémon seu no P.C.",
+	"moves": [
+	  {
+		"name": "Ember",
+		"color": "WHITE",
+		"size": 20,
+		"damage": 20,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Tackle",
+		"color": "WHITE",
+		"size": 32,
+		"damage": 30,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Ember",
+		"color": "WHITE",
+		"size": 20,
+		"damage": 20,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 24,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 36,
+	"id": "quilava",
+	"name": "Quilava",
+	"type": "FOGO",
+	"type2": null,
+	"rarity": "C",
+	"pm": 2,
+	"specialAbility": "Determinação Crescente - O Ember deste Pokémon ganha +20 de dano para cada Pokémon seu no P.C.",
+	"moves": [
+	  {
+		"name": "Flamethrower",
+		"color": "WHITE",
+		"size": 52,
+		"damage": 40,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se este Pokémon for derrotado usando este ataque, o oponente da batalha fica queimado."
+	  },
+	  {
+		"name": "Ember",
+		"color": "WHITE",
+		"size": 32,
+		"damage": 30,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 12,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 37,
+	"id": "typhlosion",
+	"name": "Typhlosion",
+	"type": "FOGO",
+	"type2": null,
+	"rarity": "EX",
+	"pm": 1,
+	"specialAbility": "Aceleração Flamejante - PM+1 para este Pokémon para cada Pokémon que você tem no P.C.",
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Ember",
+		"color": "WHITE",
+		"size": 12,
+		"damage": 50,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Hot Air",
+		"color": "PURPLE",
+		"size": 28,
+		"damage": 0,
+		"effect": "BURN",
+		"turns": 0,
+		"description": "Todos os Pokémon vizinhos ficam queimados."
+	  },
+	  {
+		"name": "Ember",
+		"color": "WHITE",
+		"size": 12,
+		"damage": 50,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Fire Blast",
+		"color": "WHITE",
+		"size": 28,
+		"damage": 90,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 38,
+	"id": "totodile",
+	"name": "Totodile",
+	"type": "AGUA",
+	"type2": null,
+	"rarity": "UC",
+	"pm": 3,
+	"specialAbility": "Instinto de Mordida - Este Pokémon deve batalhar se possível após fazer um MP move.",
+	"moves": [
+	  {
+		"name": "Bite",
+		"color": "WHITE",
+		"size": 28,
+		"damage": 90,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 12,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Water Gun",
+		"color": "WHITE",
+		"size": 48,
+		"damage": 60,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 88
+  },
+  {
+	"dexId": 39,
+	"id": "croconaw",
+	"name": "Croconaw",
+	"type": "AGUA",
+	"type2": null,
+	"rarity": "C",
+	"pm": 2,
+	"specialAbility": "Movimento Mordaz - Este Pokémon pode sempre atacar após se mover.",
+	"moves": [
+	  {
+		"name": "Scary Face",
+		"color": "PURPLE",
+		"size": 28,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "O oponente é movido 1 passo para trás deste Pokémon (o oponente escolhe o ponto) e ganha Wait."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 20,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Bite",
+		"color": "WHITE",
+		"size": 48,
+		"damage": 80,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 40,
+	"id": "feraligatr",
+	"name": "Feraligatr",
+	"type": "AGUA",
+	"type2": null,
+	"rarity": "EX",
+	"pm": 1,
+	"specialAbility": "Impulso de Velocidade - Quando este Pokémon evolui, ganha +1 PM.",
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Hydro Pump",
+		"color": "WHITE",
+		"size": 24,
+		"damage": 160,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Bite",
+		"color": "WHITE",
+		"size": 36,
+		"damage": 100,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Wash Away",
+		"color": "PURPLE",
+		"size": 28,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "O oponente da batalha é empurrado 2 passos para trás e ganha Wait."
+	  }
+	],
+	"wheelTotal": 100
+  },
+  {
+	"dexId": 41,
+	"id": "mareep",
+	"name": "Mareep",
+	"type": "ELETRICO",
+	"type2": null,
+	"rarity": "C",
+	"pm": 2,
+	"specialAbility": null,
+	"moves": [
+	  {
+		"name": "Thunder Wave",
+		"color": "PURPLE",
+		"size": 32,
+		"damage": 0,
+		"effect": "PARALYSIS",
+		"turns": 0,
+		"description": "O oponente da batalha fica paralisado."
+	  },
+	  {
+		"name": "Thunder Shock",
+		"color": "WHITE",
+		"size": 48,
+		"damage": 40,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 16,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 42,
+	"id": "flaaffy",
+	"name": "Flaaffy",
+	"type": "ELETRICO",
+	"type2": null,
+	"rarity": "UC",
+	"pm": 2,
+	"specialAbility": "Pelagem Elétrica - Se este Pokémon não estiver afetado por condição especial, todos os ataques Azuis dos oponentes não-Terrestres se tornam Miss. Este Pokémon não pode ser Paralisado.",
+	"moves": [
+	  {
+		"name": "Thunder Wave",
+		"color": "PURPLE",
+		"size": 36,
+		"damage": 0,
+		"effect": "PARALYSIS",
+		"turns": 0,
+		"description": "O oponente da batalha fica paralisado."
+	  },
+	  {
+		"name": "Thunder Punch",
+		"color": "WHITE",
+		"size": 48,
+		"damage": 40,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se este Pokémon for derrotado, o oponente da batalha fica paralisado."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 12,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 43,
+	"id": "ampharos",
+	"name": "Ampharos",
+	"type": "ELETRICO",
+	"type2": null,
+	"rarity": "EX",
+	"pm": 2,
+	"specialAbility": "Sobrecarga Elétrica - Enquanto este Pokémon estiver em campo, seus Pokémon do tipo Elétrico causam +10 de dano para cada Pokémon paralisado em campo. Não acumula.",
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Dragon Pulse",
+		"color": "WHITE",
+		"size": 32,
+		"damage": 90,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Causa +50 de dano se o oponente da batalha for do tipo Dragão."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Override",
+		"color": "WHITE",
+		"size": 32,
+		"damage": 100,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Todos os Pokémon adjacentes ficam paralisados."
+	  },
+	  {
+		"name": "Beacon Light",
+		"color": "BLUE",
+		"size": 20,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Remove Wait de todos os seus Pokémon em campo."
+	  }
+	],
+	"wheelTotal": 92
+  },
+  {
+	"dexId": 44,
+	"id": "marill",
+	"name": "Marill",
+	"type": "AGUA",
+	"type2": "FADA",
+	"rarity": "C",
+	"pm": 2,
+	"specialAbility": "Força Bruta - Se este Pokémon não estiver afetado por condição especial, causa +50 de dano.",
+	"moves": [
+	  {
+		"name": "Tackle",
+		"color": "WHITE",
+		"size": 20,
+		"damage": 30,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Water Gun",
+		"color": "WHITE",
+		"size": 28,
+		"damage": 40,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Rollout",
+		"color": "WHITE",
+		"size": 28,
+		"damage": 30,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Gira de novo enquanto Rollout sair - o dano é multiplicado pelo número de giros."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 20,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 45,
+	"id": "azumarill",
+	"name": "Azumarill",
+	"type": "AGUA",
+	"type2": "FADA",
+	"rarity": "R",
+	"pm": 2,
+	"specialAbility": null,
+	"moves": [
+	  {
+		"name": "Aqua Jet",
+		"color": "GOLD",
+		"size": 20,
+		"damage": 30,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Play Rough",
+		"color": "WHITE",
+		"size": 32,
+		"damage": 80,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "No próximo turno, o oponente não pode usar placas."
+	  },
+	  {
+		"name": "Belly Drum",
+		"color": "PURPLE",
+		"size": 28,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Anexa um marcador Final Song a todos os Pokémon a até 2 passos. Pokémon com esse marcador são derrotados 5 turnos depois. Seus Pokémon com Belly Drum causam +50 de dano enquanto esse Pokémon estiver em campo."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 16,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 46,
+	"id": "espeon",
+	"name": "Espeon",
+	"type": "PSIQUICO",
+	"type2": null,
+	"rarity": "R",
+	"pm": 3,
+	"specialAbility": "Previsão Comportamental - Este Pokémon ganha +1 estrela.",
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Dodge",
+		"color": "BLUE",
+		"size": 20,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Magic Coat",
+		"color": "PURPLE",
+		"size": 32,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se o oponente usar um ataque que anexaria marcador ou causaria condição especial neste Pokémon, esse efeito é redirecionado ao oponente."
+	  },
+	  {
+		"name": "Psybeam",
+		"color": "WHITE",
+		"size": 36,
+		"damage": 40,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se este Pokémon for derrotado, o oponente da batalha fica confuso."
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 47,
+	"id": "umbreon",
+	"name": "Umbreon",
+	"type": "SOMBRIO",
+	"type2": null,
+	"rarity": "R",
+	"pm": 3,
+	"specialAbility": "Sincronia - Quando este Pokémon fica envenenado, tóxico, paralisado, queimado etc. por um ataque, o Pokémon que causou a condição também fica com ela.",
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Dodge",
+		"color": "BLUE",
+		"size": 20,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Toxic",
+		"color": "PURPLE",
+		"size": 32,
+		"damage": 0,
+		"effect": "NOXIOUS",
+		"turns": 0,
+		"description": "O oponente da batalha fica tóxico."
+	  },
+	  {
+		"name": "Faint Attack",
+		"color": "WHITE",
+		"size": 36,
+		"damage": 40,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 48,
+	"id": "murkrow",
+	"name": "Murkrow",
+	"type": "SOMBRIO",
+	"type2": "VOADOR",
+	"rarity": "R",
+	"pm": 3,
+	"specialAbility": null,
+	"moves": [
+	  {
+		"name": "Sucker Punch",
+		"color": "GOLD",
+		"size": 28,
+		"damage": 10,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Whirlwind",
+		"color": "PURPLE",
+		"size": 32,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "O oponente da batalha volta ao banco e ganha Wait."
+	  },
+	  {
+		"name": "Astonish",
+		"color": "WHITE",
+		"size": 28,
+		"damage": 30,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 49,
+	"id": "scizor",
+	"name": "Scizor",
+	"type": "INSETO",
+	"type2": "ACO",
+	"rarity": "EX",
+	"pm": 2,
+	"specialAbility": "Quebra-Aço - Se um oponente de batalha deste Pokémon girar um ataque de 130 ou mais de dano, anexa um marcador Cracked ao oponente.",
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Crushing Squeeze",
+		"color": "WHITE",
+		"size": 32,
+		"damage": 150,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se o oponente da batalha tiver um marcador Cracked, este Pokémon não recebe dano e o oponente é derrotado (exceto se for do tipo Fogo)."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Dodge",
+		"color": "BLUE",
+		"size": 24,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Bullet Punch",
+		"color": "GOLD",
+		"size": 32,
+		"damage": 30,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Dano original ilegível no documento (OCR mostrou 'Gold' na coluna de dano); valor estimado com base em Pokémon semelhantes."
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 50,
+	"id": "heracross",
+	"name": "Heracross",
+	"type": "INSETO",
+	"type2": "LUTADOR",
+	"rarity": "EX",
+	"pm": 2,
+	"specialAbility": "Chifre Real - Enquanto este Pokémon estiver em campo, seus Pokémon ganham +1 giro em ataques de 'gire de novo'. Enquanto um marcador Cracked estiver anexado, os ataques Azuis do oponente se tornam Miss.",
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Pin Missile",
+		"color": "WHITE",
+		"size": 60,
+		"damage": 40,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Gira de novo enquanto Pin Missile sair - o dano é multiplicado pelo número de giros."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Heavy Hurl",
+		"color": "BLUE",
+		"size": 24,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "O oponente da batalha é movido para um ponto a 2 passos e recebe um marcador MP-2."
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 51,
+	"id": "houndour",
+	"name": "Houndour",
+	"type": "SOMBRIO",
+	"type2": "FOGO",
+	"rarity": "UC",
+	"pm": 3,
+	"specialAbility": "Caça Infernal - Este Pokémon e os Pokémon que batalham com ele ficam queimados depois da batalha.",
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 12,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Crunch",
+		"color": "WHITE",
+		"size": 52,
+		"damage": 40,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Roar",
+		"color": "PURPLE",
+		"size": 24,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "O oponente da batalha é empurrado 1 passo para trás (o oponente escolhe o ponto) e ganha Wait."
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 52,
+	"id": "houndoom",
+	"name": "Houndoom",
+	"type": "SOMBRIO",
+	"type2": "FOGO",
+	"rarity": "EX",
+	"pm": 2,
+	"specialAbility": "Fogo Maligno - Enquanto este Pokémon estiver em campo, seus Pokémon do tipo Fogo causam +10 de dano para cada Pokémon queimado em campo. Se este Pokémon estiver queimado, os Pokémon que batalharem com ele ficam queimados.",
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Flamethrower",
+		"color": "WHITE",
+		"size": 36,
+		"damage": 130,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se este Pokémon for derrotado, o oponente da batalha fica queimado."
+	  },
+	  {
+		"name": "Fiery Breath",
+		"color": "PURPLE",
+		"size": 28,
+		"damage": 0,
+		"effect": "BURN",
+		"turns": 0,
+		"description": "O oponente da batalha fica queimado. Você pode girar por um Pokémon a até 2 passos - se sair ataque Branco, esse Pokémon também fica queimado."
+	  },
+	  {
+		"name": "Sucker Punch",
+		"color": "GOLD",
+		"size": 16,
+		"damage": 60,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 56,
+	"id": "larvitar",
+	"name": "Larvitar",
+	"type": "ROCHA",
+	"type2": "TERRENO",
+	"rarity": "UC",
+	"pm": 2,
+	"specialAbility": null,
+	"moves": [
+	  {
+		"name": "Bite",
+		"color": "WHITE",
+		"size": 28,
+		"damage": 20,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Thrash",
+		"color": "WHITE",
+		"size": 40,
+		"damage": 50,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Este Pokémon fica confuso."
+	  },
+	  {
+		"name": "Crunch",
+		"color": "WHITE",
+		"size": 20,
+		"damage": 70,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 57,
+	"id": "pupitar",
+	"name": "Pupitar",
+	"type": "ROCHA",
+	"type2": "TERRENO",
+	"rarity": "UC",
+	"pm": 3,
+	"specialAbility": "Atordoar - Todos os ataques Azuis dos oponentes de batalha deste Pokémon se tornam Miss.",
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Thrash",
+		"color": "WHITE",
+		"size": 64,
+		"damage": 50,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Este Pokémon fica confuso."
+	  },
+	  {
+		"name": "Bite",
+		"color": "WHITE",
+		"size": 16,
+		"damage": 20,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Protect",
+		"color": "BLUE",
+		"size": 12,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Este Pokémon ganha Wait."
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 58,
+	"id": "tyranitar",
+	"name": "Tyranitar",
+	"type": "ROCHA",
+	"type2": "SOMBRIO",
+	"rarity": "EX",
+	"pm": 2,
+	"specialAbility": null,
+	"moves": [
+	  {
+		"name": "Taunt",
+		"color": "PURPLE",
+		"size": 16,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Até o final do seu próximo turno, se o Pokémon atingido por este ataque girar Roxo ou Azul, o resultado é deslocado em sentido horário até sair um ataque que não seja Roxo nem Azul."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Rock Slide",
+		"color": "WHITE",
+		"size": 36,
+		"damage": 150,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se o oponente ou Pokémon adversários adjacentes a ele tiverem Wait, esses Pokémon são derrotados. O oponente e os adjacentes ganham Wait 3."
+	  },
+	  {
+		"name": "Mountain Topple",
+		"color": "WHITE",
+		"size": 40,
+		"damage": 170,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Todos os outros Pokémon em campo giram. Os que sortearem ataque Azul são derrotados."
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 53,
+	"id": "raikou",
+	"name": "Raikou",
+	"type": "ELETRICO",
+	"type2": null,
+	"rarity": "EX",
+	"pm": 2,
+	"specialAbility": "Sem Parar - Este Pokémon não pode ter Wait. Pode fazer MP Move passando por Pokémon paralisados ou com Wait.",
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Thunder",
+		"color": "WHITE",
+		"size": 24,
+		"damage": 110,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Thunderous Blow",
+		"color": "GOLD",
+		"size": 24,
+		"damage": 80,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "O oponente da batalha e uma sucessão de Pokémon adjacentes a ele (excluindo este) ficam Paralisados."
+	  },
+	  {
+		"name": "Bite",
+		"color": "WHITE",
+		"size": 24,
+		"damage": 50,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Dodge",
+		"color": "BLUE",
+		"size": 16,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 54,
+	"id": "entei",
+	"name": "Entei",
+	"type": "FOGO",
+	"type2": null,
+	"rarity": "EX",
+	"pm": 2,
+	"specialAbility": "Avanço Flamejante - Pode fazer MP Move passando por Pokémon queimados. Este Pokémon no banco ganha +1 PM.",
+	"moves": [
+	  {
+		"name": "Stomp",
+		"color": "WHITE",
+		"size": 24,
+		"damage": 60,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Sacred Fire",
+		"color": "WHITE",
+		"size": 36,
+		"damage": 140,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "O oponente da batalha fica queimado."
+	  },
+	  {
+		"name": "Fierce Roar",
+		"color": "PURPLE",
+		"size": 24,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Troca o oponente da batalha com um Pokémon adversário adjacente a ele. Esses Pokémon ganham Wait."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 12,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 55,
+	"id": "suicune",
+	"name": "Suicune",
+	"type": "AGUA",
+	"type2": null,
+	"rarity": "EX",
+	"pm": 2,
+	"specialAbility": "Purificação - Quando este Pokémon vai do banco para o campo, remove condições especiais e marcadores Curse de todos os seus Pokémon no duelo.",
+	"moves": [
+	  {
+		"name": "Dodge",
+		"color": "BLUE",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Ice Beam",
+		"color": "WHITE",
+		"size": 24,
+		"damage": 60,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se este Pokémon for derrotado, o oponente da batalha fica congelado."
+	  },
+	  {
+		"name": "Sheer Cold",
+		"color": "PURPLE",
+		"size": 24,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "O oponente da batalha é derrotado. Se estiver congelado, é excluído do duelo."
+	  },
+	  {
+		"name": "Hydro Pump",
+		"color": "WHITE",
+		"size": 24,
+		"damage": 100,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Dodge",
+		"color": "BLUE",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 59,
+	"id": "lugia",
+	"name": "Lugia",
+	"type": "PSIQUICO",
+	"type2": "VOADOR",
+	"rarity": "EX",
+	"pm": 2,
+	"specialAbility": "Furor Marinho - Este Pokémon causa +10 de dano para cada Pokémon do tipo Água no banco de cada jogador.",
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Aeroblast",
+		"color": "WHITE",
+		"size": 24,
+		"damage": 120,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Cyclone",
+		"color": "PURPLE",
+		"size": 24,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "O oponente da batalha é movido para o banco e ganha Wait."
+	  },
+	  {
+		"name": "Aeroblast",
+		"color": "WHITE",
+		"size": 24,
+		"damage": 120,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Dodge",
+		"color": "BLUE",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 60,
+	"id": "ho-oh",
+	"name": "Ho-Oh",
+	"type": "FOGO",
+	"type2": "VOADOR",
+	"rarity": "EX",
+	"pm": 2,
+	"specialAbility": "Luz Serena - Quando este Pokémon é derrotado, todos os Pokémon no seu P.C. vão para o banco (exceto este).",
+	"moves": [
+	  {
+		"name": "Gust",
+		"color": "WHITE",
+		"size": 28,
+		"damage": 50,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Fire Blast",
+		"color": "WHITE",
+		"size": 32,
+		"damage": 100,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Rainbow Wing",
+		"color": "PURPLE",
+		"size": 24,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Este Pokémon se move 2 passos."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 12,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 61,
+	"id": "celebi",
+	"name": "Celebi",
+	"type": "PSIQUICO",
+	"type2": "GRAMA",
+	"rarity": "EX",
+	"pm": 3,
+	"specialAbility": "Viagem no Tempo - Se não estiver afetado por condição especial, pode fazer MP Move sobre Pokémon adversários não-Voadores em campo. No início do seu turno, pode usar esta habilidade para retornar o duelo ao início do seu turno anterior e excluir este Pokémon do duelo (o tempo restante de ambos não muda). Até o fim do próximo turno do oponente, nenhum jogador pode usar Viagem no Tempo novamente.",
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Energy Ball",
+		"color": "PURPLE",
+		"size": 32,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Enquanto o oponente da batalha estiver em campo, todos os seus ataques Azuis que não sejam Dodge se tornam Miss."
+	  },
+	  {
+		"name": "Grass Knot",
+		"color": "WHITE",
+		"size": 44,
+		"damage": 40,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se o ataque do oponente for 120 de dano ou mais, o oponente é derrotado em vez deste Pokémon."
+	  },
+	  {
+		"name": "Backtrack",
+		"color": "BLUE",
+		"size": 18,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Este Pokémon pode ir para o banco. Se fizer isso, seu oponente de batalha também vai para o banco e retorna à forma que tinha no início do duelo."
+	  }
+	],
+	"wheelTotal": 98
+  },
+  {
+	"dexId": 62,
+	"id": "treecko",
+	"name": "Treecko",
+	"type": "GRAMA",
+	"type2": null,
+	"rarity": "UC",
+	"pm": 3,
+	"specialAbility": "Escalada de Parede - Enquanto no banco, este Pokémon pode fazer MP move sobre Pokémon que não sejam do tipo Fantasma.",
+	"moves": [
+	  {
+		"name": "Quick Attack",
+		"color": "GOLD",
+		"size": 16,
+		"damage": 20,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Slam",
+		"color": "WHITE",
+		"size": 56,
+		"damage": 40,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Dodge",
+		"color": "BLUE",
+		"size": 20,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 63,
+	"id": "grovyle",
+	"name": "Grovyle",
+	"type": "GRAMA",
+	"type2": null,
+	"rarity": "R",
+	"pm": 2,
+	"specialAbility": "Salto na Floresta - No início do seu turno, em vez de um MP move, você pode mover este Pokémon para um ponto ao lado de um Pokémon do tipo Grama adjacente. Se houver uma sucessão de Pokémon do tipo Grama adjacentes, pode mover-se para junto de qualquer um deles.",
+	"moves": [
+	  {
+		"name": "Quick Attack",
+		"color": "GOLD",
+		"size": 24,
+		"damage": 20,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Leaf Blade",
+		"color": "WHITE",
+		"size": 44,
+		"damage": 70,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Gira de novo - se sair Leaf Blade novamente, causa +50 de dano."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Dodge",
+		"color": "BLUE",
+		"size": 20,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 64,
+	"id": "sceptile",
+	"name": "Sceptile",
+	"type": "GRAMA",
+	"type2": null,
+	"rarity": "EX",
+	"pm": 2,
+	"specialAbility": null,
+	"moves": [
+	  {
+		"name": "Quick Attack",
+		"color": "GOLD",
+		"size": 20,
+		"damage": 30,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Leaf Blade",
+		"color": "WHITE",
+		"size": 44,
+		"damage": 90,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Gira de novo - se sair Leaf Blade novamente, causa +50 de dano."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Stealth Hit",
+		"color": "BLUE",
+		"size": 28,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Este Pokémon pode saltar sobre o oponente da batalha e cair 1 passo além."
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 65,
+	"id": "torchic",
+	"name": "Torchic",
+	"type": "FOGO",
+	"type2": null,
+	"rarity": "UC",
+	"pm": 3,
+	"specialAbility": "Vazamento de Fogo - Qualquer Pokémon do tipo Grama ou Inseto que batalhar com este Pokémon ficará queimado.",
+	"moves": [
+	  {
+		"name": "Peck",
+		"color": "WHITE",
+		"size": 24,
+		"damage": 30,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Ember",
+		"color": "WHITE",
+		"size": 48,
+		"damage": 40,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 24,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 66,
+	"id": "combusken",
+	"name": "Combusken",
+	"type": "FOGO",
+	"type2": "LUTADOR",
+	"rarity": "R",
+	"pm": 2,
+	"specialAbility": null,
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Cyclone Kick",
+		"color": "PURPLE",
+		"size": 28,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Move o oponente da batalha para o P.C."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Weak Spot Kick",
+		"color": "WHITE",
+		"size": 52,
+		"damage": 60,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "O oponente da batalha ganha Wait 4."
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 67,
+	"id": "blaziken",
+	"name": "Blaziken",
+	"type": "FOGO",
+	"type2": "LUTADOR",
+	"rarity": "EX",
+	"pm": 2,
+	"specialAbility": null,
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Cyclone Kick",
+		"color": "PURPLE",
+		"size": 24,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Move o oponente da batalha para o P.C."
+	  },
+	  {
+		"name": "Jet Kick",
+		"color": "GOLD",
+		"size": 24,
+		"damage": 20,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se o oponente da batalha for derrotado, este Pokémon se move 2 passos além após a batalha e ganha Wait."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Flare Blitz",
+		"color": "WHITE",
+		"size": 32,
+		"damage": 130,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se este Pokémon for derrotado, o oponente da batalha fica queimado."
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 68,
+	"id": "mudkip",
+	"name": "Mudkip",
+	"type": "AGUA",
+	"type2": null,
+	"rarity": "UC",
+	"pm": 3,
+	"specialAbility": null,
+	"moves": [
+	  {
+		"name": "Water Gun",
+		"color": "WHITE",
+		"size": 48,
+		"damage": 30,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Take Down",
+		"color": "WHITE",
+		"size": 24,
+		"damage": 50,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Dodge",
+		"color": "BLUE",
+		"size": 16,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 69,
+	"id": "marshtomp",
+	"name": "Marshtomp",
+	"type": "AGUA",
+	"type2": "TERRENO",
+	"rarity": "R",
+	"pm": 1,
+	"specialAbility": "Cobertura de Lama - Se houver 3 ou mais Pokémon do tipo Água em campo, seus Pokémon do tipo Terrestre com PM1 ou menor ganham +1PM.",
+	"moves": [
+	  {
+		"name": "Mud Shot",
+		"color": "WHITE",
+		"size": 44,
+		"damage": 80,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Anexa um marcador MP-1 ao oponente da batalha."
+	  },
+	  {
+		"name": "Muddy Water",
+		"color": "PURPLE",
+		"size": 24,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "O oponente da batalha e um Pokémon vizinho diretamente atrás dele são empurrados 1 passo para trás e ganham Wait."
+	  },
+	  {
+		"name": "Protect",
+		"color": "BLUE",
+		"size": 16,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Este Pokémon ganha Wait."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 12,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 70,
+	"id": "swampert",
+	"name": "Swampert",
+	"type": "AGUA",
+	"type2": "TERRENO",
+	"rarity": "EX",
+	"pm": 1,
+	"specialAbility": "Cobertura de Lama - Se houver 3 ou mais Pokémon do tipo Água em campo, seus Pokémon do tipo Terrestre com PM1 ou menor ganham +1PM.",
+	"moves": [
+	  {
+		"name": "Hammer Arm",
+		"color": "WHITE",
+		"size": 36,
+		"damage": 150,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Este Pokémon ganha Wait."
+	  },
+	  {
+		"name": "Tractor",
+		"color": "BLUE",
+		"size": 28,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Você pode empurrar este Pokémon 1 passo para trás e mover o oponente da batalha para a posição anterior deste Pokémon. Se fizer isso, o oponente ganha Wait."
+	  },
+	  {
+		"name": "Ice Punch",
+		"color": "WHITE",
+		"size": 20,
+		"damage": 80,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se este Pokémon for derrotado, o oponente da batalha fica congelado."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 12,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 71,
+	"id": "lotad",
+	"name": "Lotad",
+	"type": "AGUA",
+	"type2": "GRAMA",
+	"rarity": "C",
+	"pm": 2,
+	"specialAbility": "Folha Aquática - Seus Pokémon do tipo Inseto podem se mover sobre este Pokémon usando um MP move.",
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 12,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Bubble Beam",
+		"color": "WHITE",
+		"size": 28,
+		"damage": 40,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Grass Knot",
+		"color": "WHITE",
+		"size": 28,
+		"damage": 30,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se o ataque do oponente for 120 de dano ou mais, o oponente é derrotado em vez deste Pokémon."
+	  },
+	  {
+		"name": "Dodge",
+		"color": "BLUE",
+		"size": 28,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 72,
+	"id": "lombre",
+	"name": "Lombre",
+	"type": "AGUA",
+	"type2": "GRAMA",
+	"rarity": "UC",
+	"pm": 2,
+	"specialAbility": "Escorregadio - Apenas uma vez, antes de ser cercado, este Pokémon pode trocar de lugar com um Pokémon adjacente.",
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 12,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Bubble Beam",
+		"color": "WHITE",
+		"size": 28,
+		"damage": 50,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Grass Knot",
+		"color": "WHITE",
+		"size": 28,
+		"damage": 40,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se o ataque do oponente for 120 de dano ou mais, o oponente é derrotado em vez deste Pokémon."
+	  },
+	  {
+		"name": "Sabotage",
+		"color": "PURPLE",
+		"size": 28,
+		"damage": 0,
+		"effect": "IMMOBILIZED",
+		"turns": 3,
+		"description": "O oponente da batalha ganha Wait 3."
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 73,
+	"id": "ludicolo",
+	"name": "Ludicolo",
+	"type": "AGUA",
+	"type2": "GRAMA",
+	"rarity": "R",
+	"pm": 2,
+	"specialAbility": "Venha Aqui - Quando este Pokémon vai do banco para o campo, ou aparece como Evolução, cada jogador move um Pokémon do banco para seu ponto de entrada (o oponente primeiro).",
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 12,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Hydro Pump",
+		"color": "WHITE",
+		"size": 28,
+		"damage": 70,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Grass Knot",
+		"color": "WHITE",
+		"size": 28,
+		"damage": 50,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se o ataque do oponente for 120 de dano ou mais, o oponente é derrotado em vez deste Pokémon."
+	  },
+	  {
+		"name": "Lively Dance",
+		"color": "PURPLE",
+		"size": 28,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Todos os Pokémon em campo giram. Os que sortearem ataque Branco ganham Wait."
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 74,
+	"id": "ralts",
+	"name": "Ralts",
+	"type": "PSIQUICO",
+	"type2": "FADA",
+	"rarity": "R",
+	"pm": 3,
+	"specialAbility": "Sensor Fantasma - Pokémon adversários não podem fazer MP move através deste Pokémon usando o efeito de uma Habilidade.",
+	"moves": [
+	  {
+		"name": "Confusion",
+		"color": "WHITE",
+		"size": 40,
+		"damage": 30,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Imprison",
+		"color": "PURPLE",
+		"size": 44,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Anexa um marcador Imprisoned ao oponente da batalha. Enquanto o marcador estiver anexado, o ataque que o oponente girar nesse turno se torna Miss."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 12,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 75,
+	"id": "kirlia",
+	"name": "Kirlia",
+	"type": "PSIQUICO",
+	"type2": "FADA",
+	"rarity": "R",
+	"pm": 2,
+	"specialAbility": "Sensor Fantasma - Pokémon adversários não podem fazer MP move através deste Pokémon usando o efeito de uma Habilidade.",
+	"moves": [
+	  {
+		"name": "Moonblast",
+		"color": "WHITE",
+		"size": 20,
+		"damage": 60,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Super Psy",
+		"color": "WHITE",
+		"size": 32,
+		"damage": 40,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se este Pokémon for derrotado, o oponente da batalha fica confuso."
+	  },
+	  {
+		"name": "Psycho Switch",
+		"color": "PURPLE",
+		"size": 32,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Coloca o oponente da batalha no banco. Este Pokémon então troca de lugar com outro dos seus Pokémon do campo, banco ou P.C."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 12,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 76,
+	"id": "gardevoir",
+	"name": "Gardevoir",
+	"type": "PSIQUICO",
+	"type2": "FADA",
+	"rarity": "EX",
+	"pm": 2,
+	"specialAbility": "Sensor Fantasma - Pokémon adversários não podem fazer MP move através deste Pokémon usando o efeito de uma Habilidade.",
+	"moves": [
+	  {
+		"name": "Warp Hole",
+		"color": "PURPLE",
+		"size": 32,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Troca o oponente da batalha por um Pokémon do campo, banco ou P.C. Em seguida, esses Pokémon devem esperar (Wait 3)."
+	  },
+	  {
+		"name": "Moonblast",
+		"color": "WHITE",
+		"size": 32,
+		"damage": 140,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Super Psy",
+		"color": "WHITE",
+		"size": 24,
+		"damage": 100,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se este Pokémon for derrotado, o oponente da batalha fica confuso."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 77,
+	"id": "slakoth",
+	"name": "Slakoth",
+	"type": "NORMAL",
+	"type2": null,
+	"rarity": "UC",
+	"pm": 1,
+	"specialAbility": "Sonolência - Este Pokémon desperta da condição Sono no início do seu turno e pode ser usado novamente.",
+	"moves": [
+	  {
+		"name": "Scratch",
+		"color": "WHITE",
+		"size": 32,
+		"damage": 50,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Big Yawn",
+		"color": "PURPLE",
+		"size": 48,
+		"damage": 0,
+		"effect": "SLEEP",
+		"turns": 0,
+		"description": "Este Pokémon e o oponente da batalha adormecem."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 16,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 78,
+	"id": "vigoroth",
+	"name": "Vigoroth",
+	"type": "NORMAL",
+	"type2": null,
+	"rarity": "UC",
+	"pm": 3,
+	"specialAbility": "Espírito Vital Máximo - Este Pokémon pode fazer MP move até o limite do seu alcance de PM.",
+	"moves": [
+	  {
+		"name": "Fury Swipes",
+		"color": "WHITE",
+		"size": 36,
+		"damage": 30,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Gira de novo enquanto Fury Swipes sair - o dano é multiplicado pelo número de giros."
+	  },
+	  {
+		"name": "Slash",
+		"color": "WHITE",
+		"size": 40,
+		"damage": 50,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 20,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 79,
+	"id": "slaking",
+	"name": "Slaking",
+	"type": "NORMAL",
+	"type2": null,
+	"rarity": "R",
+	"pm": 2,
+	"specialAbility": "Negligência - Este Pokémon não pode atacar no mesmo turno em que fez um MP move.",
+	"moves": [
+	  {
+		"name": "Hammer Arm",
+		"color": "WHITE",
+		"size": 44,
+		"damage": 80,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Este Pokémon ganha Wait."
+	  },
+	  {
+		"name": "Rest",
+		"color": "PURPLE",
+		"size": 16,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Este Pokémon adormece."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 12,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Fake Sleep",
+		"color": "PURPLE",
+		"size": 24,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Permite que este Pokémon gire novamente uma vez."
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 80,
+	"id": "aron",
+	"name": "Aron",
+	"type": "ACO",
+	"type2": "ROCHA",
+	"rarity": "UC",
+	"pm": 2,
+	"specialAbility": null,
+	"moves": [
+	  {
+		"name": "Tackle",
+		"color": "WHITE",
+		"size": 24,
+		"damage": 20,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Big Bite",
+		"color": "WHITE",
+		"size": 48,
+		"damage": 40,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se o tipo do oponente da batalha for Aço, este Pokémon não recebe dano e o oponente é derrotado."
+	  },
+	  {
+		"name": "Protect",
+		"color": "BLUE",
+		"size": 20,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Este Pokémon ganha Wait."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 81,
+	"id": "lairon",
+	"name": "Lairon",
+	"type": "ACO",
+	"type2": "ROCHA",
+	"rarity": "C",
+	"pm": 2,
+	"specialAbility": null,
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Tackle",
+		"color": "WHITE",
+		"size": 24,
+		"damage": 30,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Take Down",
+		"color": "WHITE",
+		"size": 20,
+		"damage": 90,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Harden",
+		"color": "WHITE",
+		"size": 28,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se o dano causado a este Pokémon for 100 ou menos, ele não desmaia."
+	  },
+	  {
+		"name": "Protect",
+		"color": "BLUE",
+		"size": 20,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Este Pokémon ganha Wait."
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 82,
+	"id": "aggron",
+	"name": "Aggron",
+	"type": "ACO",
+	"type2": "ROCHA",
+	"rarity": "EX",
+	"pm": 1,
+	"specialAbility": "Territorialidade - Enquanto este Pokémon estiver no banco, ganha +1 PM. Pokémon adversários não podem passar por ele com MP move. Qualquer Pokémon adversário que usar MP move para ficar ao lado deste Pokémon deve atacá-lo nesse turno.",
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Heavy Slam",
+		"color": "WHITE",
+		"size": 16,
+		"damage": 90,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se o oponente da batalha tiver PM3 ou mais, este Pokémon não recebe dano e o oponente é derrotado."
+	  },
+	  {
+		"name": "Protect",
+		"color": "BLUE",
+		"size": 16,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Este Pokémon ganha Wait."
+	  },
+	  {
+		"name": "Brutal Swing",
+		"color": "PURPLE",
+		"size": 16,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Pokémon adversários adjacentes são empurrados 1 passo para trás e ganham Wait."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Iron Tail",
+		"color": "WHITE",
+		"size": 36,
+		"damage": 140,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 83,
+	"id": "trapinch",
+	"name": "Trapinch",
+	"type": "TERRENO",
+	"type2": null,
+	"rarity": "UC",
+	"pm": 1,
+	"specialAbility": "Armadilha de Areia - Qualquer Pokémon adjacente a este, exceto do tipo Voador, não pode usar MP move (mas ainda pode passar por ele).",
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Protect",
+		"color": "BLUE",
+		"size": 20,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Este Pokémon ganha Wait."
+	  },
+	  {
+		"name": "Crunch",
+		"color": "WHITE",
+		"size": 28,
+		"damage": 70,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Bite",
+		"color": "WHITE",
+		"size": 20,
+		"damage": 20,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Dig",
+		"color": "PURPLE",
+		"size": 24,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Este Pokémon se afasta de qualquer Pokémon anexado a ele."
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 84,
+	"id": "vibrava",
+	"name": "Vibrava",
+	"type": "TERRENO",
+	"type2": "DRAGAO",
+	"rarity": "UC",
+	"pm": 2,
+	"specialAbility": "Som Vibrante - Pokémon adversários não podem passar ao lado deste Pokémon usando MP move. Se o Pokémon que o oponente moveu no último turno estiver ao lado deste, ele não pode atacar.",
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Supersonic",
+		"color": "PURPLE",
+		"size": 24,
+		"damage": 0,
+		"effect": "CONFUSION",
+		"turns": 0,
+		"description": "O oponente da batalha fica confuso."
+	  },
+	  {
+		"name": "Dragon Breath",
+		"color": "WHITE",
+		"size": 16,
+		"damage": 70,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Screech",
+		"color": "PURPLE",
+		"size": 24,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Todos os Pokémon vizinhos ganham Wait."
+	  },
+	  {
+		"name": "Mud Shot",
+		"color": "WHITE",
+		"size": 28,
+		"damage": 40,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Anexa um marcador MP-1 ao oponente da batalha."
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 85,
+	"id": "flygon",
+	"name": "Flygon",
+	"type": "TERRENO",
+	"type2": "DRAGAO",
+	"rarity": "R",
+	"pm": 2,
+	"specialAbility": "Tempestade de Areia - Os efeitos Fly Away do oponente são anulados. Quando este Pokémon está em campo e evoluído, os efeitos Soar dos Pokémon em campo são anulados.",
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Dragon Claw",
+		"color": "WHITE",
+		"size": 16,
+		"damage": 100,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Draco Meteor",
+		"color": "PURPLE",
+		"size": 28,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Outro Pokémon em campo gira - se sair Miss ou ataque Branco de 70 ou mais, é derrotado."
+	  },
+	  {
+		"name": "Dragon Claw",
+		"color": "WHITE",
+		"size": 16,
+		"damage": 100,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Fly Away",
+		"color": "PURPLE",
+		"size": 28,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Este Pokémon salta sobre o oponente da batalha e cai em um ponto ao redor."
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 88,
+	"id": "absol",
+	"name": "Absol",
+	"type": "SOMBRIO",
+	"type2": null,
+	"rarity": "EX",
+	"pm": 2,
+	"specialAbility": "Pressão - Enquanto este Pokémon estiver em campo, Wait dura 1 turno mais para Pokémon adversários quando você os faz ganhar Wait.",
+	"moves": [
+	  {
+		"name": "Sucker Punch",
+		"color": "GOLD",
+		"size": 44,
+		"damage": 80,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Swords Dance",
+		"color": "WHITE",
+		"size": 24,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Gira de novo até sair um ataque diferente de Swords Dance. Ataques de dano causam o dobro."
+	  },
+	  {
+		"name": "Dodge",
+		"color": "BLUE",
+		"size": 24,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 86,
+	"id": "feebas",
+	"name": "Feebas",
+	"type": "AGUA",
+	"type2": null,
+	"rarity": "UC",
+	"pm": 2,
+	"specialAbility": "Evolução para a Beleza - Quando este Pokémon desmaia em batalha, pode evoluir sem ir para o P.C.",
+	"moves": [
+	  {
+		"name": "Flail",
+		"color": "WHITE",
+		"size": 48,
+		"damage": 10,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Waterfall",
+		"color": "WHITE",
+		"size": 44,
+		"damage": 20,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se o oponente da batalha for do tipo Água, este Pokémon não recebe dano e avança para um ponto além do oponente."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 87,
+	"id": "milotic",
+	"name": "Milotic",
+	"type": "AGUA",
+	"type2": null,
+	"rarity": "EX",
+	"pm": 2,
+	"specialAbility": "Escama Maravilhosa - Quando este Pokémon vai do banco para o campo, ou aparece como evolução, remove a condição Queimado dos seus Pokémon. Se este Pokémon estiver afetado por condição especial, seus oponentes causam -50 de dano a ele.",
+	"moves": [
+	  {
+		"name": "Aqua Tail",
+		"color": "WHITE",
+		"size": 36,
+		"damage": 130,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "O oponente da batalha ganha Wait."
+	  },
+	  {
+		"name": "Magic Coat",
+		"color": "PURPLE",
+		"size": 16,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se o ataque do oponente fosse anexar marcador ou condição especial a este Pokémon, o efeito é redirecionado ao oponente."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Blue Pulse",
+		"color": "BLUE",
+		"size": 36,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Este Pokémon pode fazer um oponente a até 2 passos ficar confuso."
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 89,
+	"id": "bagon",
+	"name": "Bagon",
+	"type": "DRAGAO",
+	"type2": null,
+	"rarity": "UC",
+	"pm": 2,
+	"specialAbility": null,
+	"moves": [
+	  {
+		"name": "Bite",
+		"color": "WHITE",
+		"size": 32,
+		"damage": 30,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Headbutt",
+		"color": "WHITE",
+		"size": 20,
+		"damage": 90,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Bite",
+		"color": "WHITE",
+		"size": 32,
+		"damage": 30,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 12,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 90,
+	"id": "shelgon",
+	"name": "Shelgon",
+	"type": "DRAGAO",
+	"type2": null,
+	"rarity": "C",
+	"pm": 1,
+	"specialAbility": null,
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Flamethrower",
+		"color": "WHITE",
+		"size": 24,
+		"damage": 90,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "O oponente da batalha fica queimado."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Conceal",
+		"color": "WHITE",
+		"size": 64,
+		"damage": 10,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se o dano causado a este Pokémon for 100 ou menos, ele não desmaia."
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 91,
+	"id": "salamence",
+	"name": "Salamence",
+	"type": "DRAGAO",
+	"type2": "VOADOR",
+	"rarity": "R",
+	"pm": 2,
+	"specialAbility": null,
+	"moves": [
+	  {
+		"name": "Fly Away",
+		"color": "PURPLE",
+		"size": 24,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Este Pokémon salta sobre o oponente da batalha e cai em um ponto ao redor."
+	  },
+	  {
+		"name": "Dragon Breath",
+		"color": "WHITE",
+		"size": 64,
+		"damage": 70,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 92,
+	"id": "beldum",
+	"name": "Beldum",
+	"type": "ACO",
+	"type2": "PSIQUICO",
+	"rarity": "UC",
+	"pm": 3,
+	"specialAbility": "Corpo Magnético - No início do seu turno, se algum outro Metang ou Metagross seu estiver a até 2 passos, você pode mover este Pokémon para um ponto a 2 passos de distância em vez de um MP move. Se fizer isso, seu turno termina.",
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Electromagnetic Blaster",
+		"color": "WHITE",
+		"size": 68,
+		"damage": 50,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se houver um Pokémon do tipo Elétrico ao lado deste, +50 de dano."
+	  },
+	  {
+		"name": "Dodge",
+		"color": "BLUE",
+		"size": 24,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 93,
+	"id": "metang",
+	"name": "Metang",
+	"type": "ACO",
+	"type2": "PSIQUICO",
+	"rarity": "R",
+	"pm": 2,
+	"specialAbility": "Corpo Magnético - No início do seu turno, se algum outro Metang ou Metagross seu estiver a até 2 passos, você pode mover este Pokémon para um ponto a 2 passos de distância em vez de um MP move. Se fizer isso, seu turno termina.",
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Bullet Punch",
+		"color": "GOLD",
+		"size": 28,
+		"damage": 30,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Tractor Beam",
+		"color": "BLUE",
+		"size": 16,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Move outro Pokémon do tipo Aço a até 2 passos deste para um ponto a 1-2 passos dele."
+	  },
+	  {
+		"name": "Metal Claw",
+		"color": "WHITE",
+		"size": 32,
+		"damage": 90,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Tractor Beam",
+		"color": "BLUE",
+		"size": 16,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Move outro Pokémon do tipo Aço a até 2 passos deste para um ponto a 1-2 passos dele."
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 94,
+	"id": "metagross",
+	"name": "Metagross",
+	"type": "ACO",
+	"type2": "PSIQUICO",
+	"rarity": "EX",
+	"pm": 1,
+	"specialAbility": null,
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Dodge",
+		"color": "BLUE",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Metal Claw",
+		"color": "WHITE",
+		"size": 16,
+		"damage": 130,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Dodge",
+		"color": "BLUE",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Hyper Beam",
+		"color": "WHITE",
+		"size": 24,
+		"damage": 160,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se o oponente da batalha for derrotado, o próximo turno será sempre do outro jogador."
+	  },
+	  {
+		"name": "Dodge",
+		"color": "BLUE",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Metal Claw",
+		"color": "WHITE",
+		"size": 16,
+		"damage": 130,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Dodge",
+		"color": "BLUE",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Bullet Punch",
+		"color": "GOLD",
+		"size": 20,
+		"damage": 50,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 95,
+	"id": "regirock",
+	"name": "Regirock",
+	"type": "ROCHA",
+	"type2": null,
+	"rarity": "EX",
+	"pm": 2,
+	"specialAbility": "Bloqueio: Azul - Se este Pokémon não estiver afetado por condição especial, em vez de um MP move, ele pode forçar um Pokémon adversário a até 2 passos a girar. Se sair ataque Azul, anexa um marcador Lock-On a esse Pokémon. Seu turno termina.",
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Protect",
+		"color": "BLUE",
+		"size": 16,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Seus Pokémon ganham Wait."
+	  },
+	  {
+		"name": "Hammer Arm",
+		"color": "WHITE",
+		"size": 32,
+		"damage": 160,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Este Pokémon ganha Wait."
+	  },
+	  {
+		"name": "Explosion",
+		"color": "PURPLE",
+		"size": 20,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Este Pokémon e todos os vizinhos desmaiam."
+	  },
+	  {
+		"name": "Multiblast",
+		"color": "WHITE",
+		"size": 24,
+		"damage": 120,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Derrota todos os Pokémon que tiverem marcadores Lock-On anexados."
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 96,
+	"id": "regice",
+	"name": "Regice",
+	"type": "GELO",
+	"type2": null,
+	"rarity": "EX",
+	"pm": 2,
+	"specialAbility": "Bloqueio: Roxo - No início do seu turno, em vez de um MP move, este Pokémon pode forçar Pokémon adversários a até 2 passos a girar. Se sair ataque Roxo, anexa um marcador Lock-On a esse Pokémon. Seu turno termina.",
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Protect",
+		"color": "BLUE",
+		"size": 16,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Seus Pokémon ganham Wait."
+	  },
+	  {
+		"name": "Hammer Arm",
+		"color": "WHITE",
+		"size": 32,
+		"damage": 160,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Este Pokémon ganha Wait."
+	  },
+	  {
+		"name": "Ice Beam",
+		"color": "WHITE",
+		"size": 20,
+		"damage": 90,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se este Pokémon for derrotado, o oponente da batalha fica congelado."
+	  },
+	  {
+		"name": "Multiblast",
+		"color": "WHITE",
+		"size": 24,
+		"damage": 120,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Derrota todos os Pokémon que tiverem marcadores Lock-On anexados."
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 97,
+	"id": "registeel",
+	"name": "Registeel",
+	"type": "ACO",
+	"type2": null,
+	"rarity": "EX",
+	"pm": 2,
+	"specialAbility": "Bloqueio: Dourado - Se este Pokémon não estiver afetado por condição especial, em vez de um MP move, ele pode forçar um Pokémon adversário a até 2 passos a girar. Se sair ataque Dourado, anexa um marcador Lock-On a esse Pokémon. Seu turno termina.",
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Protect",
+		"color": "BLUE",
+		"size": 16,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Seus Pokémon ganham Wait."
+	  },
+	  {
+		"name": "Hammer Arm",
+		"color": "WHITE",
+		"size": 32,
+		"damage": 160,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Este Pokémon ganha Wait."
+	  },
+	  {
+		"name": "Thunder Wave",
+		"color": "PURPLE",
+		"size": 20,
+		"damage": 0,
+		"effect": "PARALYSIS",
+		"turns": 0,
+		"description": "O oponente da batalha fica paralisado."
+	  },
+	  {
+		"name": "Multiblast",
+		"color": "WHITE",
+		"size": 24,
+		"damage": 120,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Derrota todos os Pokémon que tiverem marcadores Lock-On anexados."
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 98,
+	"id": "latias",
+	"name": "Latias",
+	"type": "DRAGAO",
+	"type2": "PSIQUICO",
+	"rarity": "EX",
+	"pm": 3,
+	"specialAbility": "Alucinação - Se este Pokémon for derrotado, ele é removido do duelo.",
+	"moves": [
+	  {
+		"name": "Fly Away",
+		"color": "PURPLE",
+		"size": 12,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Este Pokémon salta sobre o oponente da batalha e cai em um ponto ao redor."
+	  },
+	  {
+		"name": "Mist Ball",
+		"color": "WHITE",
+		"size": 20,
+		"damage": 140,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Dragon Breath",
+		"color": "WHITE",
+		"size": 32,
+		"damage": 120,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Fly Away",
+		"color": "PURPLE",
+		"size": 12,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Este Pokémon salta sobre o oponente da batalha e cai em um ponto ao redor."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Psychic",
+		"color": "WHITE",
+		"size": 16,
+		"damage": 80,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 99,
+	"id": "latios",
+	"name": "Latios",
+	"type": "DRAGAO",
+	"type2": "PSIQUICO",
+	"rarity": "EX",
+	"pm": 3,
+	"specialAbility": "Alucinação - Se este Pokémon for derrotado, ele é removido do duelo.",
+	"moves": [
+	  {
+		"name": "Dodge",
+		"color": "BLUE",
+		"size": 12,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Luster Purge",
+		"color": "WHITE",
+		"size": 20,
+		"damage": 150,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Dragon Breath",
+		"color": "WHITE",
+		"size": 32,
+		"damage": 120,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Dodge",
+		"color": "BLUE",
+		"size": 12,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Psychic",
+		"color": "WHITE",
+		"size": 16,
+		"damage": 90,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 100,
+	"id": "kyogre",
+	"name": "Kyogre",
+	"type": "AGUA",
+	"type2": null,
+	"rarity": "EX",
+	"pm": 2,
+	"specialAbility": "Furor Primordial - Se o oponente tiver Groudon, Kyogre ou Rayquaza em campo, este Pokémon causa +20 de dano.",
+	"moves": [
+	  {
+		"name": "Break Energy",
+		"color": "WHITE",
+		"size": 20,
+		"damage": 90,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Os efeitos de Placas de Energia do oponente são perdidos."
+	  },
+	  {
+		"name": "Dodge",
+		"color": "BLUE",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Tidal Wave",
+		"color": "PURPLE",
+		"size": 32,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Todos os Pokémon vizinhos são empurrados 3 passos para trás e ganham Wait."
+	  },
+	  {
+		"name": "Dodge",
+		"color": "BLUE",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Hydro Pump",
+		"color": "WHITE",
+		"size": 20,
+		"damage": 130,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 101,
+	"id": "groudon",
+	"name": "Groudon",
+	"type": "TERRENO",
+	"type2": null,
+	"rarity": "EX",
+	"pm": 2,
+	"specialAbility": "Furor Primordial - Se o oponente tiver Groudon, Kyogre ou Rayquaza em campo, este Pokémon causa +20 de dano.",
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Smash",
+		"color": "WHITE",
+		"size": 48,
+		"damage": 130,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Break Energy",
+		"color": "WHITE",
+		"size": 20,
+		"damage": 90,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Os efeitos de Placas de Energia do oponente são perdidos."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Dodge",
+		"color": "BLUE",
+		"size": 16,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 102,
+	"id": "rayquaza",
+	"name": "Rayquaza",
+	"type": "DRAGAO",
+	"type2": "VOADOR",
+	"rarity": "EX",
+	"pm": 1,
+	"specialAbility": "Furor Primordial - Se o oponente tiver Groudon, Kyogre ou Rayquaza em campo, este Pokémon causa +20 de dano.",
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Fly",
+		"color": "PURPLE",
+		"size": 24,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Este Pokémon salta sobre o oponente da batalha e cai 1-2 passos além."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Extreme Speed",
+		"color": "GOLD",
+		"size": 36,
+		"damage": 140,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Break Energy",
+		"color": "WHITE",
+		"size": 24,
+		"damage": 60,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Os efeitos de Placas de Energia do oponente são perdidos."
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 103,
+	"id": "deoxys",
+	"name": "Deoxys",
+	"type": "PSIQUICO",
+	"type2": null,
+	"rarity": "EX",
+	"pm": 2,
+	"specialAbility": null,
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Psychic",
+		"color": "WHITE",
+		"size": 16,
+		"damage": 50,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Psycho Boost",
+		"color": "WHITE",
+		"size": 24,
+		"damage": 90,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Psychic",
+		"color": "WHITE",
+		"size": 16,
+		"damage": 50,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Teleport",
+		"color": "PURPLE",
+		"size": 24,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Este Pokémon se move 2 passos."
+	  }
+	],
+	"wheelTotal": 88
+  },
+  {
+	"dexId": 104,
+	"id": "turtwig",
+	"name": "Turtwig",
+	"type": "GRAMA",
+	"type2": null,
+	"rarity": "UC",
+	"pm": 2,
+	"specialAbility": null,
+	"moves": [
+	  {
+		"name": "Tackle",
+		"color": "WHITE",
+		"size": 28,
+		"damage": 20,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Bite",
+		"color": "WHITE",
+		"size": 32,
+		"damage": 50,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Withdraw",
+		"color": "BLUE",
+		"size": 32,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Este Pokémon ganha Wait."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 105,
+	"id": "grotle",
+	"name": "Grotle",
+	"type": "GRAMA",
+	"type2": null,
+	"rarity": "C",
+	"pm": 2,
+	"specialAbility": "Alicerce - Seus Pokémon podem se mover sobre este Pokémon.",
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Tackle",
+		"color": "WHITE",
+		"size": 28,
+		"damage": 40,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Bite",
+		"color": "WHITE",
+		"size": 28,
+		"damage": 50,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Withdraw",
+		"color": "BLUE",
+		"size": 28,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Este Pokémon ganha Wait."
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 106,
+	"id": "torterra",
+	"name": "Torterra",
+	"type": "GRAMA",
+	"type2": "TERRENO",
+	"rarity": "EX",
+	"pm": 1,
+	"specialAbility": "Pedra Angular - Outros Pokémon podem se mover sobre este Pokémon usando um MP move.",
+	"moves": [
+	  {
+		"name": "Bite",
+		"color": "WHITE",
+		"size": 28,
+		"damage": 100,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Earthquake",
+		"color": "WHITE",
+		"size": 28,
+		"damage": 120,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Todos os Pokémon em campo giram suas roletas. Quem sair Miss vai para o P.C."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Withdraw",
+		"color": "BLUE",
+		"size": 28,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Este Pokémon ganha Wait."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 107,
+	"id": "chimchar",
+	"name": "Chimchar",
+	"type": "FOGO",
+	"type2": null,
+	"rarity": "UC",
+	"pm": 3,
+	"specialAbility": null,
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 24,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Fury Swipes",
+		"color": "WHITE",
+		"size": 48,
+		"damage": 20,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Gira de novo enquanto Fury Swipes sair - o dano é multiplicado pelo número de giros."
+	  },
+	  {
+		"name": "Taunt",
+		"color": "PURPLE",
+		"size": 24,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se este Pokémon ou o oponente girar Roxo, devem girar de novo neste turno."
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 108,
+	"id": "monferno",
+	"name": "Monferno",
+	"type": "FOGO",
+	"type2": "LUTADOR",
+	"rarity": "C",
+	"pm": 2,
+	"specialAbility": null,
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 12,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Fury Swipes",
+		"color": "WHITE",
+		"size": 40,
+		"damage": 40,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Gira de novo enquanto Fury Swipes sair - o dano é multiplicado pelo número de giros."
+	  },
+	  {
+		"name": "Dodge",
+		"color": "BLUE",
+		"size": 12,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Mid-Air Strike",
+		"color": "WHITE",
+		"size": 32,
+		"damage": 60,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "O Pokémon adversário é empurrado 1 espaço para trás. Este Pokémon ganha Wait."
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 109,
+	"id": "infernape",
+	"name": "Infernape",
+	"type": "FOGO",
+	"type2": "LUTADOR",
+	"rarity": "EX",
+	"pm": 2,
+	"specialAbility": null,
+	"moves": [
+	  {
+		"name": "Detect",
+		"color": "BLUE",
+		"size": 20,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "No próximo turno, este Pokémon ganha +1 PM."
+	  },
+	  {
+		"name": "Drive Kick",
+		"color": "WHITE",
+		"size": 36,
+		"damage": 150,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se o oponente da batalha for derrotado, este Pokémon ocupa a posição anterior dele e ganha Wait."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 16,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Mach Punch",
+		"color": "GOLD",
+		"size": 28,
+		"damage": 70,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 100
+  },
+  {
+	"dexId": 110,
+	"id": "piplup",
+	"name": "Piplup",
+	"type": "AGUA",
+	"type2": null,
+	"rarity": "UC",
+	"pm": 3,
+	"specialAbility": null,
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 12,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Bubble Beam",
+		"color": "WHITE",
+		"size": 12,
+		"damage": 60,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Peck",
+		"color": "WHITE",
+		"size": 64,
+		"damage": 30,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 111,
+	"id": "prinplup",
+	"name": "Prinplup",
+	"type": "AGUA",
+	"type2": null,
+	"rarity": "C",
+	"pm": 2,
+	"specialAbility": "Entrada de Mergulho - Este Pokémon pode se mover um espaço adicional ao se mover do banco.",
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Hydro Pump",
+		"color": "WHITE",
+		"size": 24,
+		"damage": 70,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Metal Claw",
+		"color": "WHITE",
+		"size": 56,
+		"damage": 40,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 112,
+	"id": "empoleon",
+	"name": "Empoleon",
+	"type": "AGUA",
+	"type2": "ACO",
+	"rarity": "EX",
+	"pm": 2,
+	"specialAbility": "Entrada de Mergulho - Ao mover este Pokémon do banco, ele só pode ir a um espaço de distância do ponto de entrada. Seu turno termina.",
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Ice Beam",
+		"color": "WHITE",
+		"size": 20,
+		"damage": 70,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se este Pokémon for derrotado, o oponente da batalha fica congelado."
+	  },
+	  {
+		"name": "Aqua Jet",
+		"color": "GOLD",
+		"size": 32,
+		"damage": 30,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Hydro Pump",
+		"color": "WHITE",
+		"size": 32,
+		"damage": 150,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 92
+  },
+  {
+	"dexId": 113,
+	"id": "honchkrow",
+	"name": "Honchkrow",
+	"type": "SOMBRIO",
+	"type2": "VOADOR",
+	"rarity": "EX",
+	"pm": 2,
+	"specialAbility": "Insônia - Este Pokémon não pode ser afetado pela condição Sono.",
+	"moves": [
+	  {
+		"name": "Call",
+		"color": "BLUE",
+		"size": 24,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Move o Murkrow do seu P.C. para o seu banco."
+	  },
+	  {
+		"name": "Sucker Punch",
+		"color": "GOLD",
+		"size": 36,
+		"damage": 60,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Night Slash",
+		"color": "WHITE",
+		"size": 28,
+		"damage": 120,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se este Pokémon não for derrotado, você pode trocá-lo por um dos seus Pokémon no banco."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 114,
+	"id": "gible",
+	"name": "Gible",
+	"type": "DRAGAO",
+	"type2": "TERRENO",
+	"rarity": "UC",
+	"pm": 1,
+	"specialAbility": "Avanço Repentino - Em vez de um MP move, este Pokémon pode se mover até 3 espaços de um Pokémon do oponente.",
+	"moves": [
+	  {
+		"name": "Scary Face",
+		"color": "PURPLE",
+		"size": 20,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "O oponente da batalha é empurrado 1 passo para trás (o oponente escolhe o ponto) e ganha Wait."
+	  },
+	  {
+		"name": "Slash",
+		"color": "WHITE",
+		"size": 44,
+		"damage": 80,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Scary Face",
+		"color": "PURPLE",
+		"size": 20,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "O oponente da batalha é empurrado 1 passo para trás (o oponente escolhe o ponto) e ganha Wait."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 12,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 115,
+	"id": "gabite",
+	"name": "Gabite",
+	"type": "DRAGAO",
+	"type2": "TERRENO",
+	"rarity": "R",
+	"pm": 2,
+	"specialAbility": "Véu de Areia - Se este Pokémon for atacado, ele pode passar por baixo do Pokémon do oponente para outro espaço ao lado dele (não ocorre batalha).",
+	"moves": [
+	  {
+		"name": "Slash",
+		"color": "WHITE",
+		"size": 28,
+		"damage": 90,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Dragon Claw",
+		"color": "WHITE",
+		"size": 28,
+		"damage": 120,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Sand-Attack",
+		"color": "PURPLE",
+		"size": 28,
+		"damage": 0,
+		"effect": "IMMOBILIZED",
+		"turns": 1,
+		"description": "O oponente da batalha agora tem Wait."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 12,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 116,
+	"id": "garchomp",
+	"name": "Garchomp",
+	"type": "DRAGAO",
+	"type2": "TERRENO",
+	"rarity": "EX",
+	"pm": 2,
+	"specialAbility": "Véu de Areia - Se este Pokémon for atacado, ele pode passar por baixo do Pokémon do oponente para outro espaço ao lado dele (não ocorre batalha).",
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Fire Fang",
+		"color": "WHITE",
+		"size": 20,
+		"damage": 110,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "O oponente da batalha fica queimado e ganha Wait."
+	  },
+	  {
+		"name": "Dragon Rush",
+		"color": "WHITE",
+		"size": 36,
+		"damage": 160,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Double Flight",
+		"color": "PURPLE",
+		"size": 28,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Este Pokémon salta sobre o oponente e cai em um ponto ao redor. Se o Pokémon adversário estiver com condição especial, é derrotado. Depois de se mover, este Pokémon pode atacar outro Pokémon adversário novamente, mas só uma vez."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 117,
+	"id": "riolu",
+	"name": "Riolu",
+	"type": "LUTADOR",
+	"type2": null,
+	"rarity": "UC",
+	"pm": 3,
+	"specialAbility": "Foco Interior - Este Pokémon não pode entrar em estado Wait enquanto estiver em campo.",
+	"moves": [
+	  {
+		"name": "Dodge",
+		"color": "BLUE",
+		"size": 12,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Shockwave",
+		"color": "WHITE",
+		"size": 44,
+		"damage": 40,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "O oponente da batalha e todos os Pokémon diretamente atrás dele recebem Wait."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 12,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Shake",
+		"color": "WHITE",
+		"size": 28,
+		"damage": 30,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 118,
+	"id": "lucario",
+	"name": "Lucario",
+	"type": "LUTADOR",
+	"type2": "ACO",
+	"rarity": "EX",
+	"pm": 2,
+	"specialAbility": null,
+	"moves": [
+	  {
+		"name": "Dodge",
+		"color": "BLUE",
+		"size": 24,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Aura Sphere",
+		"color": "PURPLE",
+		"size": 28,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "O oponente da batalha ou um Pokémon atrás dele em linha reta a partir deste Pokémon é derrotado."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Metal Claw",
+		"color": "WHITE",
+		"size": 36,
+		"damage": 70,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 119,
+	"id": "skorupi",
+	"name": "Skorupi",
+	"type": "VENENO",
+	"type2": "INSETO",
+	"rarity": "UC",
+	"pm": 2,
+	"specialAbility": "Picada Irritante - Qualquer Pokémon do tipo Psíquico que batalhar com este Pokémon ficará confuso.",
+	"moves": [
+	  {
+		"name": "Bite",
+		"color": "WHITE",
+		"size": 28,
+		"damage": 40,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Poison Sting",
+		"color": "PURPLE",
+		"size": 28,
+		"damage": 0,
+		"effect": "POISON",
+		"turns": 0,
+		"description": "O oponente da batalha fica envenenado."
+	  },
+	  {
+		"name": "Protect",
+		"color": "BLUE",
+		"size": 24,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Este Pokémon ganha Wait."
+	  }
+	],
+	"wheelTotal": 88
+  },
+  {
+	"dexId": 120,
+	"id": "drapion",
+	"name": "Drapion",
+	"type": "VENENO",
+	"type2": "SOMBRIO",
+	"rarity": "R",
+	"pm": 2,
+	"specialAbility": "Armadura de Batalha - Se o oponente da batalha girar um ataque com 10 ou mais de dano, você pode forçá-lo a girar de novo uma vez por turno.",
+	"moves": [
+	  {
+		"name": "Cross Poison",
+		"color": "WHITE",
+		"size": 28,
+		"damage": 70,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Venom Whip",
+		"color": "PURPLE",
+		"size": 28,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Um Pokémon a até 2 passos fica tóxico."
+	  },
+	  {
+		"name": "Noxious Fang",
+		"color": "WHITE",
+		"size": 28,
+		"damage": 50,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se este Pokémon for derrotado, o Pokémon oponente fica tóxico."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 121,
+	"id": "leafeon",
+	"name": "Leafeon",
+	"type": "GRAMA",
+	"type2": null,
+	"rarity": "R",
+	"pm": 2,
+	"specialAbility": "Deslize na Mata - Este Pokémon pode fazer MP Move passando por Pokémon do tipo Grama em campo.",
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Dodge",
+		"color": "BLUE",
+		"size": 20,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Razor Leaf",
+		"color": "WHITE",
+		"size": 40,
+		"damage": 40,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Grass Whistle",
+		"color": "PURPLE",
+		"size": 28,
+		"damage": 0,
+		"effect": "SLEEP",
+		"turns": 0,
+		"description": "O oponente da batalha adormece."
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 122,
+	"id": "glaceon",
+	"name": "Glaceon",
+	"type": "GELO",
+	"type2": null,
+	"rarity": "R",
+	"pm": 3,
+	"specialAbility": null,
+	"moves": [
+	  {
+		"name": "Dodge",
+		"color": "BLUE",
+		"size": 20,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Tackle",
+		"color": "WHITE",
+		"size": 44,
+		"damage": 40,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Diamond Dust",
+		"color": "PURPLE",
+		"size": 24,
+		"damage": 0,
+		"effect": "FROZEN",
+		"turns": 0,
+		"description": "O oponente da batalha fica congelado."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 123,
+	"id": "dialga",
+	"name": "Dialga",
+	"type": "ACO",
+	"type2": "DRAGAO",
+	"rarity": "UX",
+	"pm": 2,
+	"specialAbility": "Deslize Temporal - Este Pokémon não pode ter Wait enquanto estiver em campo. Se for derrotado por dano em batalha, o próximo turno será sempre seu.",
+	"moves": [
+	  {
+		"name": "4-D Drive",
+		"color": "GOLD",
+		"size": 28,
+		"damage": 100,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Move o oponente da batalha para o P.C. dele. O oponente não é derrotado."
+	  },
+	  {
+		"name": "Roar of Time",
+		"color": "WHITE",
+		"size": 32,
+		"damage": 180,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Retorna o oponente da batalha ao estágio do início do duelo (exceto evolução)."
+	  },
+	  {
+		"name": "Aura Sphere",
+		"color": "PURPLE",
+		"size": 28,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "O oponente da batalha ou um Pokémon atrás dele em linha reta a partir deste Pokémon é derrotado."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 124,
+	"id": "palkia",
+	"name": "Palkia",
+	"type": "AGUA",
+	"type2": "DRAGAO",
+	"rarity": "UX",
+	"pm": 2,
+	"specialAbility": "Deslize Espacial - Quando este Pokémon é derrotado por dano em batalha, ele se recupera de condições especiais e se move para um dos seus pontos de entrada, se possível. Se fizer isso, ganha Wait.",
+	"moves": [
+	  {
+		"name": "4-D Drive",
+		"color": "GOLD",
+		"size": 28,
+		"damage": 100,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Move o oponente da batalha para o P.C. dele. O oponente não é derrotado."
+	  },
+	  {
+		"name": "Spacial Rend",
+		"color": "WHITE",
+		"size": 32,
+		"damage": 170,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se a batalha terminar em empate, o oponente é excluído do duelo."
+	  },
+	  {
+		"name": "Aura Sphere",
+		"color": "PURPLE",
+		"size": 28,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "O oponente da batalha ou um Pokémon atrás dele em linha reta a partir deste Pokémon é derrotado."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 125,
+	"id": "heatran",
+	"name": "Heatran",
+	"type": "FOGO",
+	"type2": "ACO",
+	"rarity": "EX",
+	"pm": 2,
+	"specialAbility": "Ataque Surpresa - Se houver um Pokémon do oponente no seu ponto de entrada e este Pokémon estiver no banco, no início do seu turno ele pode se mover ao lado desse Pokémon e batalhar. Após a batalha, se não for derrotado, vai para o seu banco.",
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Crunch",
+		"color": "WHITE",
+		"size": 12,
+		"damage": 70,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Iron Head",
+		"color": "WHITE",
+		"size": 24,
+		"damage": 150,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Crunch",
+		"color": "WHITE",
+		"size": 12,
+		"damage": 70,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Magma Slide",
+		"color": "PURPLE",
+		"size": 32,
+		"damage": 0,
+		"effect": "BURN",
+		"turns": 0,
+		"description": "O oponente da batalha é empurrado 2 passos para trás, fica queimado e ganha Wait."
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 126,
+	"id": "regigigas",
+	"name": "Regigigas",
+	"type": "NORMAL",
+	"type2": null,
+	"rarity": "UX",
+	"pm": 0,
+	"specialAbility": "Início Lento - Este Pokémon ganha +1 PM para cada espécie de Regirock, Regice e Registeel em campo. Não pode ser movido por placas, Habilidades ou ataques de outros Pokémon.",
+	"moves": [
+	  {
+		"name": "Hammer",
+		"color": "WHITE",
+		"size": 40,
+		"damage": 300,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se o oponente da batalha for derrotado, este Pokémon ocupa a posição anterior dele e ganha Wait."
+	  },
+	  {
+		"name": "Multiblast",
+		"color": "WHITE",
+		"size": 32,
+		"damage": 150,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Derrota todos os Pokémon que tiverem marcadores Lock-On anexados."
+	  },
+	  {
+		"name": "Revenge",
+		"color": "WHITE",
+		"size": 16,
+		"damage": 100,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "O dano deste ataque aumenta em 20 para cada Pokémon seu no P.C."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 127,
+	"id": "giratina",
+	"name": "Giratina",
+	"type": "FANTASMA",
+	"type2": "DRAGAO",
+	"rarity": "UX",
+	"pm": 1,
+	"specialAbility": "Distorção - No início do seu turno, em vez de um MP move, este Pokémon pode se mover através de um Pokémon adjacente para um ponto a 1-2 passos dele, podendo mudar de forma. Se mudar de forma, até o fim do seu próximo turno, efeitos de Habilidades do oponente que aumentariam dano de ataque o diminuem em vez disso. Seu turno termina.",
+	"moves": [
+	  {
+		"name": "Draco Meteor",
+		"color": "PURPLE",
+		"size": 20,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Outro Pokémon em campo gira - se sair Miss ou ataque Branco de 70 ou mais, é derrotado."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Shadow Claw",
+		"color": "WHITE",
+		"size": 44,
+		"damage": 160,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Na próxima batalha do oponente, os ataques Roxos dele se tornam Miss."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Shadow Sneak",
+		"color": "GOLD",
+		"size": 20,
+		"damage": 80,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 128,
+	"id": "cresselia",
+	"name": "Cresselia",
+	"type": "PSIQUICO",
+	"type2": null,
+	"rarity": "EX",
+	"pm": 2,
+	"specialAbility": "Véu Crescente - Se este Pokémon estiver em campo e não afetado por condição especial, Moonblast dos seus Pokémon causa +50 de dano.",
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Lunar Dance",
+		"color": "PURPLE",
+		"size": 28,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Remove a condição Dormindo dos seus Pokémon e move todos os seus Pokémon que estão no P.C. para o banco. Em seguida, este Pokémon vai para o seu P.C."
+	  },
+	  {
+		"name": "Ice Beam",
+		"color": "WHITE",
+		"size": 20,
+		"damage": 120,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se este Pokémon for derrotado, o oponente da batalha fica congelado."
+	  },
+	  {
+		"name": "Dodge",
+		"color": "BLUE",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Moonblast",
+		"color": "WHITE",
+		"size": 40,
+		"damage": 110,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 129,
+	"id": "darkrai",
+	"name": "Darkrai",
+	"type": "SOMBRIO",
+	"type2": null,
+	"rarity": "UX",
+	"pm": 2,
+	"specialAbility": "Sono Profundo - Este Pokémon pode fazer MP move sobre Pokémon não-Voadores em campo. Enquanto este estiver em campo, a condição Dormindo não é removida por efeitos de Habilidades. Se não estiver afetado por condição especial, Pokémon adormecidos a até 2 passos dele não podem ser trocados (tag).",
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Spacial Rend",
+		"color": "WHITE",
+		"size": 28,
+		"damage": 100,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se a batalha terminar em empate, o oponente é excluído do duelo."
+	  },
+	  {
+		"name": "Dark Void",
+		"color": "PURPLE",
+		"size": 28,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "O oponente da batalha e os Pokémon adversários adjacentes a ele giram; quem sair ataque Branco adormece."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 64
+  },
+  {
+	"dexId": 130,
+	"id": "arceus",
+	"name": "Arceus",
+	"type": "NORMAL",
+	"type2": null,
+	"rarity": "UX",
+	"pm": 2,
+	"specialAbility": "Multitipo - Quando este Pokémon vai para o campo, escolha um Pokémon em campo; enquanto estiver em campo, o tipo deste Pokémon se torna o tipo do Pokémon escolhido. Este Pokémon não é excluído do duelo nem movido ao Espaço Ultra pelos efeitos de ataque de Pokémon adversários.",
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Extreme Speed",
+		"color": "GOLD",
+		"size": 44,
+		"damage": 150,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Judgement",
+		"color": "WHITE",
+		"size": 28,
+		"damage": 170,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Move o oponente da batalha para o P.C. dele. O oponente não é derrotado."
+	  },
+	  {
+		"name": "Return",
+		"color": "WHITE",
+		"size": 20,
+		"damage": 100,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 131,
+	"id": "victini",
+	"name": "Victini",
+	"type": "PSIQUICO",
+	"type2": "FOGO",
+	"rarity": "EX",
+	"pm": 3,
+	"specialAbility": "Estrela da Vitória - Se não estiver afetado por condição especial, pode fazer MP move sobre Pokémon adversários não-Voadores em campo. Pode girar de novo apenas uma vez em batalhas no seu turno.",
+	"moves": [
+	  {
+		"name": "Fusion Bolt",
+		"color": "WHITE",
+		"size": 20,
+		"damage": 40,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se não afetado por condição especial e algum outro Pokémon seu em campo tiver Fusion Flare, exclui do duelo os Pokémon derrotados por este ataque."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "V-Create",
+		"color": "WHITE",
+		"size": 8,
+		"damage": 160,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Anexa um marcador MP-1 a este Pokémon."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Searing Shot",
+		"color": "PURPLE",
+		"size": 32,
+		"damage": 0,
+		"effect": "BURN",
+		"turns": 0,
+		"description": "O oponente da batalha e o Pokémon em linha reta diretamente atrás dele ficam queimados."
+	  },
+	  {
+		"name": "Fusion Flare",
+		"color": "WHITE",
+		"size": 20,
+		"damage": 40,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se não afetado por condição especial e algum outro Pokémon seu em campo tiver Fusion Bolt, exclui do duelo os Pokémon derrotados por este ataque."
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 132,
+	"id": "trubbish",
+	"name": "Trubbish",
+	"type": "VENENO",
+	"type2": null,
+	"rarity": "UC",
+	"pm": 2,
+	"specialAbility": "Fedor - Pokémon adversários do tipo Grama e Fada a até 2 passos deste Pokémon têm PM-1.",
+	"moves": [
+	  {
+		"name": "Belch",
+		"color": "PURPLE",
+		"size": 28,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "O oponente da batalha é empurrado 1 passo para trás. Se for do tipo Fada, vai para o banco."
+	  },
+	  {
+		"name": "Gunk Shot",
+		"color": "WHITE",
+		"size": 32,
+		"damage": 60,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Envenena um Pokémon adversário a até 2 passos. Anula o efeito de uma das placas em uso desse Pokémon (a placa anulada conta como usada)."
+	  },
+	  {
+		"name": "Toxic Spikes",
+		"color": "PURPLE",
+		"size": 28,
+		"damage": 0,
+		"effect": "POISON",
+		"turns": 0,
+		"description": "O oponente da batalha fica envenenado. Este Pokémon recua um passo."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 133,
+	"id": "garbodor",
+	"name": "Garbodor",
+	"type": "VENENO",
+	"type2": null,
+	"rarity": "R",
+	"pm": 2,
+	"specialAbility": "Fedor - Pokémon adversários do tipo Grama e Fada a até 2 passos deste Pokémon têm PM-1.",
+	"moves": [
+	  {
+		"name": "Acid Spray",
+		"color": "PURPLE",
+		"size": 28,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Enquanto o oponente da batalha estiver em campo, todos os ataques Azuis dele que não sejam Dodge se tornam Miss."
+	  },
+	  {
+		"name": "Gunk Shot",
+		"color": "WHITE",
+		"size": 40,
+		"damage": 120,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Envenena um Pokémon adversário a até 2 passos. Anula o efeito de uma das placas em uso desse Pokémon (a placa anulada conta como usada)."
+	  },
+	  {
+		"name": "Toxic Spikes",
+		"color": "PURPLE",
+		"size": 20,
+		"damage": 0,
+		"effect": "POISON",
+		"turns": 0,
+		"description": "O oponente da batalha fica envenenado. Este Pokémon recua um passo."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 134,
+	"id": "zorua",
+	"name": "Zorua",
+	"type": "SOMBRIO",
+	"type2": null,
+	"rarity": "R",
+	"pm": 3,
+	"specialAbility": "Ilusão - Quando este Pokémon está no banco (ou ainda não batalhou após ir para o campo) e outro dos seus Pokémon na mesma condição é atacado, antes da batalha esse Pokémon pode trocar de lugar com este.",
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Punishment",
+		"color": "WHITE",
+		"size": 56,
+		"damage": 50,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se o oponente da batalha estiver sob efeito que aumenta dano de ataque, este ataque causa +50."
+	  },
+	  {
+		"name": "Sucker Punch",
+		"color": "GOLD",
+		"size": 32,
+		"damage": 30,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 135,
+	"id": "zoroark",
+	"name": "Zoroark",
+	"type": "SOMBRIO",
+	"type2": null,
+	"rarity": "EX",
+	"pm": 2,
+	"specialAbility": "Ilusão - Quando este Pokémon está no banco (ou ainda não batalhou após ir para o campo) e outro dos seus Pokémon na mesma condição é atacado, antes da batalha esse Pokémon pode trocar de lugar com este.",
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Crosscounter",
+		"color": "WHITE",
+		"size": 36,
+		"damage": 90,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se o oponente da batalha girar um ataque de 110 de dano ou mais, o oponente é derrotado em vez deste Pokémon."
+	  },
+	  {
+		"name": "Dodge",
+		"color": "BLUE",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Sucker Punch",
+		"color": "GOLD",
+		"size": 24,
+		"damage": 50,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Night Daze",
+		"color": "WHITE",
+		"size": 24,
+		"damage": 110,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Na próxima batalha do oponente, os ataques Brancos dele se tornam Miss."
+	  }
+	],
+	"wheelTotal": 92
+  },
+  {
+	"dexId": 136,
+	"id": "solosis",
+	"name": "Solosis",
+	"type": "PSIQUICO",
+	"type2": null,
+	"rarity": "UC",
+	"pm": 2,
+	"specialAbility": "Cérebros Duplos - Se um Reuniclus, Duosion ou Solosis seu estiver adjacente, causa o dobro de dano.",
+	"moves": [
+	  {
+		"name": "Psychic",
+		"color": "WHITE",
+		"size": 72,
+		"damage": 40,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 24,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 137,
+	"id": "duosion",
+	"name": "Duosion",
+	"type": "PSIQUICO",
+	"type2": null,
+	"rarity": "UC",
+	"pm": 2,
+	"specialAbility": "Cérebros Duplos - Se um Reuniclus, Duosion ou Solosis seu estiver adjacente, causa o dobro de dano.",
+	"moves": [
+	  {
+		"name": "Psychic",
+		"color": "WHITE",
+		"size": 40,
+		"damage": 40,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Light Screen",
+		"color": "PURPLE",
+		"size": 40,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "(Efeito não especificado no documento original.)"
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 16,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 138,
+	"id": "reuniclus",
+	"name": "Reuniclus",
+	"type": "PSIQUICO",
+	"type2": null,
+	"rarity": "R",
+	"pm": 2,
+	"specialAbility": "Rede Psíquica - Você pode refazer giros de batalha até o número de outros Reuniclus seus em campo.",
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 12,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Brain Link",
+		"color": "WHITE",
+		"size": 32,
+		"damage": 50,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Causa o dobro de dano se um Reuniclus seu estiver a até 2 passos deste Pokémon."
+	  },
+	  {
+		"name": "Hyper Beam",
+		"color": "WHITE",
+		"size": 20,
+		"damage": 120,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se o oponente da batalha for derrotado, o próximo turno será sempre do outro jogador."
+	  },
+	  {
+		"name": "Confuse Ray",
+		"color": "PURPLE",
+		"size": 24,
+		"damage": 0,
+		"effect": "CONFUSION",
+		"turns": 0,
+		"description": "O oponente da batalha fica confuso."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 139,
+	"id": "joltik",
+	"name": "Joltik",
+	"type": "INSETO",
+	"type2": "ELETRICO",
+	"rarity": "UC",
+	"pm": 3,
+	"specialAbility": "Atração Elétrica - Enquanto este Pokémon estiver em campo, seus outros Pokémon causam +1 de dano.",
+	"moves": [
+	  {
+		"name": "Dodge",
+		"color": "BLUE",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Leech Life",
+		"color": "WHITE",
+		"size": 40,
+		"damage": 30,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 12,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Electric Thread",
+		"color": "PURPLE",
+		"size": 36,
+		"damage": 0,
+		"effect": "PARALYSIS",
+		"turns": 0,
+		"description": "O oponente da batalha fica paralisado e ganha Wait 3."
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 140,
+	"id": "galvantula",
+	"name": "Galvantula",
+	"type": "INSETO",
+	"type2": "ELETRICO",
+	"rarity": "R",
+	"pm": 2,
+	"specialAbility": "Teia Elétrica - Pokémon adversários que passaram sobre este Pokémon usando Fly Away, Fly ou Soar ficam paralisados.",
+	"moves": [
+	  {
+		"name": "Dodge",
+		"color": "BLUE",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Electro Ball",
+		"color": "WHITE",
+		"size": 44,
+		"damage": 60,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se o oponente da batalha estiver paralisado, causa o dobro de dano."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 12,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Electric Thread",
+		"color": "PURPLE",
+		"size": 32,
+		"damage": 0,
+		"effect": "PARALYSIS",
+		"turns": 0,
+		"description": "O oponente da batalha fica paralisado e ganha Wait 3."
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 144,
+	"id": "axew",
+	"name": "Axew",
+	"type": "DRAGAO",
+	"type2": null,
+	"rarity": "UC",
+	"pm": 3,
+	"specialAbility": null,
+	"moves": [
+	  {
+		"name": "Outrage",
+		"color": "WHITE",
+		"size": 16,
+		"damage": 80,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Este Pokémon fica confuso."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Dragon Claw",
+		"color": "WHITE",
+		"size": 52,
+		"damage": 50,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Guillotine",
+		"color": "PURPLE",
+		"size": 20,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "O oponente da batalha é derrotado."
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 145,
+	"id": "fraxure",
+	"name": "Fraxure",
+	"type": "DRAGAO",
+	"type2": null,
+	"rarity": "R",
+	"pm": 2,
+	"specialAbility": "Territorialidade - Enquanto este Pokémon estiver no banco, ganha +1 PM. Pokémon adversários não podem passar por ele com MP move. Qualquer Pokémon adversário que usar MP move para ficar ao lado deste Pokémon deve atacá-lo nesse turno, se possível.",
+	"moves": [
+	  {
+		"name": "Dragon Claw",
+		"color": "WHITE",
+		"size": 32,
+		"damage": 100,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Dual Chop",
+		"color": "WHITE",
+		"size": 32,
+		"damage": 80,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Gira de novo - se sair Dual Chop novamente, causa o dobro de dano."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Guillotine",
+		"color": "PURPLE",
+		"size": 24,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "O oponente da batalha é derrotado."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 146,
+	"id": "haxorus",
+	"name": "Haxorus",
+	"type": "DRAGAO",
+	"type2": null,
+	"rarity": "EX",
+	"pm": 2,
+	"specialAbility": "Machado Duplo - Quando este Pokémon sofreria um efeito de ataque Branco do oponente que o derrotaria, o oponente é derrotado em vez disso.",
+	"moves": [
+	  {
+		"name": "Outrage",
+		"color": "WHITE",
+		"size": 20,
+		"damage": 160,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Este Pokémon fica confuso."
+	  },
+	  {
+		"name": "Dragon Claw",
+		"color": "WHITE",
+		"size": 40,
+		"damage": 150,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Guillotine",
+		"color": "PURPLE",
+		"size": 28,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "O oponente da batalha é derrotado. Se estiver congelado, é excluído do duelo."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 141,
+	"id": "litwick",
+	"name": "Litwick",
+	"type": "FANTASMA",
+	"type2": "FOGO",
+	"rarity": "UC",
+	"pm": 1,
+	"specialAbility": "Vela Flutuante - Quando este Pokémon se move do banco, só pode ir para um ponto a 1 passo de um ponto de entrada (seu turno termina). Seus Pokémon em campo podem passar por este usando MP move. Se este Pokémon queimar o oponente, pode evoluir.",
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Will-O-Wisp",
+		"color": "PURPLE",
+		"size": 56,
+		"damage": 0,
+		"effect": "BURN",
+		"turns": 0,
+		"description": "O oponente da batalha fica queimado."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Ember",
+		"color": "WHITE",
+		"size": 24,
+		"damage": 20,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 142,
+	"id": "lampent",
+	"name": "Lampent",
+	"type": "FANTASMA",
+	"type2": "FOGO",
+	"rarity": "UC",
+	"pm": 2,
+	"specialAbility": "Luz Sombria - Pode fazer MP move através de outros Pokémon em campo. Anexa um marcador Branded a Pokémon queimados pelos quais este Pokémon passar.",
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Branded",
+		"color": "PURPLE",
+		"size": 20,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se o oponente da batalha estiver queimado, anexa um marcador Branded a ele. Efeitos de Habilidades de Pokémon Branded que aumentam ou diminuem dano de ataque são anulados."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Will-O-Wisp",
+		"color": "PURPLE",
+		"size": 28,
+		"damage": 0,
+		"effect": "BURN",
+		"turns": 0,
+		"description": "O oponente da batalha fica queimado."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Flamethrower",
+		"color": "WHITE",
+		"size": 36,
+		"damage": 50,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se este Pokémon for derrotado, o oponente da batalha fica queimado."
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 143,
+	"id": "chandelure",
+	"name": "Chandelure",
+	"type": "FANTASMA",
+	"type2": "FOGO",
+	"rarity": "EX",
+	"pm": 2,
+	"specialAbility": "Queimador de Almas - Se este Pokémon for derrotado, derrota Pokémon adversários com marcador Branded. Pode fazer MP move através de outros Pokémon em campo.",
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Dark Rite",
+		"color": "BLUE",
+		"size": 20,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Derrota um Pokémon que tenha um marcador Branded anexado."
+	  },
+	  {
+		"name": "Branded",
+		"color": "PURPLE",
+		"size": 24,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se o oponente da batalha estiver queimado, anexa um marcador Branded a ele. Efeitos de Habilidades de Pokémon Branded que aumentam ou diminuem dano de ataque são anulados."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Inferno",
+		"color": "WHITE",
+		"size": 44,
+		"damage": 130,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "O oponente da batalha fica queimado."
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 147,
+	"id": "deino",
+	"name": "Deino",
+	"type": "SOMBRIO",
+	"type2": "DRAGAO",
+	"rarity": "C",
+	"pm": 2,
+	"specialAbility": null,
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 16,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Bite",
+		"color": "WHITE",
+		"size": 48,
+		"damage": 40,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 12,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Protect",
+		"color": "BLUE",
+		"size": 20,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Este Pokémon ganha Wait."
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 148,
+	"id": "zweilous",
+	"name": "Zweilous",
+	"type": "SOMBRIO",
+	"type2": "DRAGAO",
+	"rarity": "UC",
+	"pm": 2,
+	"specialAbility": "Ataque em Banda - Este Pokémon causa +10 de dano para cada Hydreigon, Zweilous ou Deino em campo. Se este Pokémon tiver evoluído, ganha +1 PM.",
+	"moves": [
+	  {
+		"name": "Roar",
+		"color": "PURPLE",
+		"size": 36,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "O oponente da batalha é empurrado 1 passo para trás (o oponente escolhe o ponto) e ganha Wait."
+	  },
+	  {
+		"name": "Dodge",
+		"color": "BLUE",
+		"size": 12,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Bite",
+		"color": "WHITE",
+		"size": 36,
+		"damage": 60,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 12,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 149,
+	"id": "hydreigon",
+	"name": "Hydreigon",
+	"type": "SOMBRIO",
+	"type2": "DRAGAO",
+	"rarity": "R",
+	"pm": 1,
+	"specialAbility": "Ataque em Banda - Este Pokémon causa +10 de dano para cada Hydreigon, Zweilous ou Deino em campo. Se este Pokémon tiver evoluído, ganha +1 PM.",
+	"moves": [
+	  {
+		"name": "Draco Meteor",
+		"color": "PURPLE",
+		"size": 28,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Outro Pokémon em campo gira - se sair Miss ou ataque Branco de 70 ou mais, é derrotado."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Flamethrower",
+		"color": "WHITE",
+		"size": 28,
+		"damage": 80,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se este Pokémon for derrotado, o oponente da batalha fica queimado."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 64
+  },
+  {
+	"dexId": 150,
+	"id": "larvesta",
+	"name": "Larvesta",
+	"type": "INSETO",
+	"type2": "FOGO",
+	"rarity": "UC",
+	"pm": 2,
+	"specialAbility": "Evolução Flamejante - Quando este Pokémon desmaia em batalha, pode evoluir sem ir para o P.C.",
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Sting Wrap",
+		"color": "PURPLE",
+		"size": 24,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Anexa um marcador MP-1 ao oponente da batalha."
+	  },
+	  {
+		"name": "U-turn",
+		"color": "PURPLE",
+		"size": 24,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Este Pokémon troca de lugar com um Pokémon do seu banco ou P.C."
+	  },
+	  {
+		"name": "Flare Blitz",
+		"color": "WHITE",
+		"size": 32,
+		"damage": 70,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se este Pokémon for derrotado, o oponente da batalha fica queimado."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 151,
+	"id": "volcarona",
+	"name": "Volcarona",
+	"type": "INSETO",
+	"type2": "FOGO",
+	"rarity": "R",
+	"pm": 2,
+	"specialAbility": "Escamas de Fogo - Este Pokémon pode fazer MP move sobre Pokémon não-Voadores em campo. Se este Pokémon estiver evoluído, os Pokémon que batalharem com ele ficam queimados após a batalha.",
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Quiver Dance",
+		"color": "WHITE",
+		"size": 24,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Gira de novo até sair um ataque diferente de Quiver Dance, então dobra o dano dele, ou este Pokémon ganha +1 estrela."
+	  },
+	  {
+		"name": "Fiery Dance",
+		"color": "PURPLE",
+		"size": 28,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Anexa um marcador MP-2 ao oponente da batalha. Qualquer Pokémon adversário com marcador que reduza PM fica Queimado."
+	  },
+	  {
+		"name": "Fire Blast",
+		"color": "WHITE",
+		"size": 32,
+		"damage": 90,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 152,
+	"id": "cobalion",
+	"name": "Cobalion",
+	"type": "ACO",
+	"type2": "LUTADOR",
+	"rarity": "EX",
+	"pm": 2,
+	"specialAbility": "Coração de Ferro - Este Pokémon e seus Pokémon adjacentes a ele não são derrotados por Ataques Dourados dos seus oponentes de batalha.",
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Dodge",
+		"color": "BLUE",
+		"size": 12,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Sword of Justice",
+		"color": "WHITE",
+		"size": 40,
+		"damage": 101,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Dodge",
+		"color": "BLUE",
+		"size": 12,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Quick Attack",
+		"color": "GOLD",
+		"size": 24,
+		"damage": 60,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 153,
+	"id": "terrakion",
+	"name": "Terrakion",
+	"type": "ROCHA",
+	"type2": "LUTADOR",
+	"rarity": "EX",
+	"pm": 2,
+	"specialAbility": "Atordoar - Todos os ataques Azuis dos oponentes de batalha deste Pokémon se tornam Miss.",
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Protect",
+		"color": "BLUE",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Este Pokémon ganha Wait."
+	  },
+	  {
+		"name": "Sword of Justice",
+		"color": "WHITE",
+		"size": 40,
+		"damage": 101,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Stone Edge",
+		"color": "WHITE",
+		"size": 28,
+		"damage": 130,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Protect",
+		"color": "BLUE",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Este Pokémon ganha Wait."
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 154,
+	"id": "virizion",
+	"name": "Virizion",
+	"type": "GRAMA",
+	"type2": "LUTADOR",
+	"rarity": "EX",
+	"pm": 2,
+	"specialAbility": "Trabalho de Passos - Este Pokémon pode se mover sobre Pokémon não-Voadores em campo usando MP moves.",
+	"moves": [
+	  {
+		"name": "Grass Knot",
+		"color": "WHITE",
+		"size": 24,
+		"damage": 40,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se o ataque do oponente for 120 de dano ou mais, o oponente é derrotado em vez deste Pokémon."
+	  },
+	  {
+		"name": "Sword of Justice",
+		"color": "WHITE",
+		"size": 36,
+		"damage": 101,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Typhoon Slash",
+		"color": "PURPLE",
+		"size": 28,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Este Pokémon pode trocar de lugar com o oponente da batalha."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 155,
+	"id": "reshiram",
+	"name": "Reshiram",
+	"type": "DRAGAO",
+	"type2": "FOGO",
+	"rarity": "EX",
+	"pm": 2,
+	"specialAbility": "Pedra da Luz - Este Pokémon ganha Wait 9 no início do duelo.",
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Fly",
+		"color": "PURPLE",
+		"size": 12,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Este Pokémon salta sobre o oponente da batalha e cai 1-2 passos além."
+	  },
+	  {
+		"name": "Blue Flare",
+		"color": "WHITE",
+		"size": 36,
+		"damage": 140,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "O oponente da batalha fica queimado."
+	  },
+	  {
+		"name": "Fly",
+		"color": "PURPLE",
+		"size": 12,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Este Pokémon salta sobre o oponente da batalha e cai 1-2 passos além."
+	  },
+	  {
+		"name": "Dodge",
+		"color": "BLUE",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Fusion Flare",
+		"color": "WHITE",
+		"size": 24,
+		"damage": 90,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se você tiver um Pokémon com Fusion Bolt em campo e este não estiver afetado por condição especial, exclui do duelo os Pokémon derrotados por este ataque."
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 156,
+	"id": "zekrom",
+	"name": "Zekrom",
+	"type": "DRAGAO",
+	"type2": "ELETRICO",
+	"rarity": "EX",
+	"pm": 2,
+	"specialAbility": "Pedra das Trevas - Este Pokémon ganha Wait 9 no início do duelo.",
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Fly",
+		"color": "PURPLE",
+		"size": 12,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Este Pokémon salta sobre o oponente da batalha e cai 1-2 passos além."
+	  },
+	  {
+		"name": "Bolt Strike",
+		"color": "WHITE",
+		"size": 36,
+		"damage": 130,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "O oponente da batalha fica paralisado."
+	  },
+	  {
+		"name": "Fly",
+		"color": "PURPLE",
+		"size": 12,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Este Pokémon salta sobre o oponente da batalha e cai 1-2 passos além."
+	  },
+	  {
+		"name": "Dodge",
+		"color": "BLUE",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Fusion Bolt",
+		"color": "WHITE",
+		"size": 24,
+		"damage": 90,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se você tiver um Pokémon com Fusion Flare em campo e este não estiver afetado por condição especial, exclui do duelo os Pokémon derrotados por este ataque."
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 157,
+	"id": "kyurem",
+	"name": "Kyurem",
+	"type": "DRAGAO",
+	"type2": "GELO",
+	"rarity": "EX",
+	"pm": 2,
+	"specialAbility": "Geada Eterna - Se não estiver afetado por condição especial, a condição Congelado de Pokémon a até 2 passos deste não pode ser removida por troca (tag).",
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Fly",
+		"color": "PURPLE",
+		"size": 12,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Este Pokémon salta sobre o oponente da batalha e cai 1-2 passos além."
+	  },
+	  {
+		"name": "Ice Beam",
+		"color": "WHITE",
+		"size": 40,
+		"damage": 110,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se este Pokémon for derrotado, o oponente da batalha fica congelado."
+	  },
+	  {
+		"name": "Outrage",
+		"color": "WHITE",
+		"size": 12,
+		"damage": 180,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Este Pokémon fica confuso."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Glaciate",
+		"color": "PURPLE",
+		"size": 24,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Todos os Pokémon adversários em campo que não sejam Fogo, Água, Gelo ou Aço giram. Anexa marcadores MP-1 aos que sortearem ataques Brancos."
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 160,
+	"id": "kyurem-white",
+	"name": "White Kyurem",
+	"type": "DRAGAO",
+	"type2": "GELO",
+	"rarity": "UX",
+	"pm": 3,
+	"specialAbility": "Turbo Chama - Esta forma só pode ser definida no baralho. Efeitos de Habilidades do oponente que aumentam ou diminuem dano de ataque são anulados. Pode fazer MP move sobre outros Pokémon. Quando derrotado, pode mudar para a forma Kyurem sem ir ao P.C.; se houver Reshiram excluídos do duelo, move um deles para o banco.",
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Draco Meteor",
+		"color": "PURPLE",
+		"size": 16,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Outro Pokémon em campo gira - se sair Miss ou ataque Branco de 70 ou mais, é derrotado."
+	  },
+	  {
+		"name": "Ice Burn",
+		"color": "WHITE",
+		"size": 32,
+		"damage": 140,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "O oponente da batalha fica queimado. Se o oponente tiver Wait, ele é derrotado em vez deste Pokémon."
+	  },
+	  {
+		"name": "Draco Meteor",
+		"color": "PURPLE",
+		"size": 16,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Outro Pokémon em campo gira - se sair Miss ou ataque Branco de 70 ou mais, é derrotado."
+	  },
+	  {
+		"name": "Dodge",
+		"color": "BLUE",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Fusion Flare",
+		"color": "WHITE",
+		"size": 24,
+		"damage": 100,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se não afetado por condição especial e algum dos seus Pokémon em campo tiver Fusion Bolt, exclui do duelo os Pokémon derrotados por este ataque."
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 159,
+	"id": "kyurem-black",
+	"name": "Black Kyurem",
+	"type": "DRAGAO",
+	"type2": "GELO",
+	"rarity": "UX",
+	"pm": 3,
+	"specialAbility": "Teravoltagem - Esta forma só pode ser definida no baralho. Efeitos de Habilidades do oponente que aumentam ou diminuem dano de ataque são anulados. Pode fazer MP move sobre outros Pokémon. Quando derrotado, pode mudar para a forma Kyurem sem ir ao P.C.; se houver Zekrom excluídos do duelo, move um deles para o banco.",
+	"moves": [
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Fly",
+		"color": "PURPLE",
+		"size": 16,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Este Pokémon salta sobre o oponente da batalha e cai 1-2 passos além."
+	  },
+	  {
+		"name": "Freeze Shock",
+		"color": "WHITE",
+		"size": 32,
+		"damage": 140,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "O oponente da batalha fica paralisado. Se o oponente tiver Wait, ele é derrotado em vez deste Pokémon."
+	  },
+	  {
+		"name": "Fly",
+		"color": "PURPLE",
+		"size": 16,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Este Pokémon salta sobre o oponente da batalha e cai 1-2 passos além."
+	  },
+	  {
+		"name": "Dodge",
+		"color": "BLUE",
+		"size": 4,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Fusion Bolt",
+		"color": "WHITE",
+		"size": 24,
+		"damage": 100,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Se não afetado por condição especial e algum dos seus Pokémon em campo tiver Fusion Flare, exclui do duelo os Pokémon derrotados por este ataque."
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 158,
+	"id": "keldeo",
+	"name": "Keldeo",
+	"type": "AGUA",
+	"type2": "LUTADOR",
+	"rarity": "EX",
+	"pm": 3,
+	"specialAbility": "Justiceiro - Este Pokémon causa +10 de dano para cada Pokémon adversário do tipo Sombrio em campo. Quando derrotado em batalha, pode mudar para a forma Keldeo Resolute sem ir ao P.C.",
+	"moves": [
+	  {
+		"name": "Water Jump",
+		"color": "BLUE",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Este Pokémon pode se mover para um ponto a 2 passos. Se fizer isso, ganha Wait."
+	  },
+	  {
+		"name": "Sacred Sword",
+		"color": "WHITE",
+		"size": 36,
+		"damage": 71,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Hydro Kick",
+		"color": "WHITE",
+		"size": 32,
+		"damage": 40,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Coloca o Pokémon adversário no banco (exceto se já desmaiou). O oponente da batalha ganha Wait em seguida."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 12,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Dodge",
+		"color": "BLUE",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 96
+  },
+  {
+	"dexId": 161,
+	"id": "keldeo-resolute",
+	"name": "Keldeo Resolute Form",
+	"type": "AGUA",
+	"type2": "LUTADOR",
+	"rarity": "UX",
+	"pm": 3,
+	"specialAbility": "Espadachim Sagrado - Válido apenas no seu turno. Enquanto este Pokémon estiver em campo, Sword of Justice dos seus Pokémon causa +30 de dano. O oponente de batalha desses Pokémon não pode ser movido por efeitos que não sejam de ataque desses Pokémon até o fim da batalha.",
+	"moves": [
+	  {
+		"name": "Water Jump",
+		"color": "BLUE",
+		"size": 12,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Este Pokémon pode se mover para um ponto a 2 passos. Se fizer isso, ganha Wait."
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Secret Sword",
+		"color": "PURPLE",
+		"size": 24,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Gira para um Pokémon adversário a até 2 passos. Se sair Miss ou ataque Branco de até 100 de dano, ele é derrotado."
+	  },
+	  {
+		"name": "Water Jump",
+		"color": "BLUE",
+		"size": 12,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Este Pokémon pode se mover para um ponto a 2 passos. Se fizer isso, ganha Wait."
+	  },
+	  {
+		"name": "Aqua Jet",
+		"color": "GOLD",
+		"size": 36,
+		"damage": 70,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  }
+	],
+	"wheelTotal": 100
+  },
+  {
+	"dexId": 162,
+	"id": "genesect",
+	"name": "Genesect",
+	"type": "INSETO",
+	"type2": "ACO",
+	"rarity": "EX",
+	"pm": 3,
+	"specialAbility": "Jato Flutuante - Pode fazer MP move sobre seus Pokémon em campo. Se alguma das suas placas Drive tiver sido usada, quando este Pokémon for derrotado, uma delas volta a ficar usável (exceto uma ainda em uso naquele turno).",
+	"moves": [
+	  {
+		"name": "Dodge",
+		"color": "BLUE",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Techno Blast",
+		"color": "WHITE",
+		"size": 40,
+		"damage": 50,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Miss",
+		"color": "RED",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Dodge",
+		"color": "BLUE",
+		"size": 8,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": ""
+	  },
+	  {
+		"name": "Techno Charge",
+		"color": "PURPLE",
+		"size": 24,
+		"damage": 0,
+		"effect": "NONE",
+		"turns": 0,
+		"description": "Este Pokémon deve esperar (Wait). Em troca, recebe um bônus de +50 de dano até a próxima vez que cair em Techno Blast."
+	  }
+	],
+	"wheelTotal": 96
+  }
+]
