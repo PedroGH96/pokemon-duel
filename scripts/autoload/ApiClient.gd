@@ -18,10 +18,10 @@ extends Node
 ##
 ## Pra alternar, mude só a linha USE_PRODUCTION abaixo — não precisa mexer
 ## em mais nada nem comentar/descomentar URL.
-const USE_PRODUCTION := false
+const USE_PRODUCTION := true
 
 const URL_LOCAL      := "http://127.0.0.1:8080"
-const URL_PRODUCTION := "https://SEU-APP.onrender.com"  # troque pela URL real da Render
+const URL_PRODUCTION := "https://pokemon-duel.onrender.com"
 
 const BASE_URL := URL_PRODUCTION if USE_PRODUCTION else URL_LOCAL
 
