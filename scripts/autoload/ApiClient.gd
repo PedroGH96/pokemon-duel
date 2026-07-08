@@ -11,10 +11,19 @@ extends Node
 ## Todas as funções recebem um Callable (callback) chamado com o resultado
 ## já decodificado (Array/Dictionary) ou `null` em caso de erro.
 
-## Endereço base da API. Ajuste para o IP/porta do servidor Spring Boot.
+## Endereço base da API.
 ## - Desenvolvimento local: http://127.0.0.1:8080
-## - Emulador Android: http://10.0.2.2:8080
-const BASE_URL := "http://127.0.0.1:8080"
+## - Emulador Android (apontando pro seu PC): http://10.0.2.2:8080
+## - Produção (Render, etc.): a URL pública do backend hospedado
+##
+## Pra alternar, mude só a linha USE_PRODUCTION abaixo — não precisa mexer
+## em mais nada nem comentar/descomentar URL.
+const USE_PRODUCTION := false
+
+const URL_LOCAL      := "http://127.0.0.1:8080"
+const URL_PRODUCTION := "https://SEU-APP.onrender.com"  # troque pela URL real da Render
+
+const BASE_URL := URL_PRODUCTION if USE_PRODUCTION else URL_LOCAL
 
 const HEADERS := ["Content-Type: application/json"]
 

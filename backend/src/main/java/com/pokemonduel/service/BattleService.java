@@ -128,7 +128,13 @@ public class BattleService {
         for (Move m : figure.getPokemon().getMoves()) {
             double segmentDegrees = (m.getPercentage() / (double) total) * 360.0;
             if (m == drawnMove) {
-                return 720.0 + angle + segmentDegrees / 2.0;
+                // O cliente (BattleWheel.gd) mantém o ponteiro FIXO no topo e gira
+                // o CONTEÚDO da roleta por "currentRotation" graus (sentido horário).
+                // Isso significa que o segmento que termina sob o ponteiro é o de
+                // posição (360 - currentRotation) — não currentRotation direto.
+                // Por isso o ângulo enviado precisa ser o COMPLEMENTAR da posição
+                // do segmento sorteado, senão o ponteiro pousa no segmento oposto.
+                return 720.0 - angle - segmentDegrees / 2.0;
             }
             angle += segmentDegrees;
         }
